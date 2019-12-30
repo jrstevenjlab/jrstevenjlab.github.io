@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Collaboration
+  link: /collaboration.html
+#- name: Management Plan
+#  link: /management_plan.html
+#- name: Bylaws
+#  link: /bylaws.html
+#- name: Links
+#  link: /links.html
