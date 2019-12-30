@@ -7,4 +7,5 @@ gluexweb.xcworkspace/*
 
 _site/old/*
 _site/gluexweb.xcworkspace/*
-_site/papers/*
+_site/papers/*/*.png
+_site/papers/*/*.pdf
