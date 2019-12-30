@@ -1,2 +1,9 @@
-
+.jekyll-cache/*
 .DS_Store
+Gemfile.lock
+
+old/*
+gluexweb.xcworkspace/*
+
+_site/old/*
+_site/gluexweb.xcworkspace/*
