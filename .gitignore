@@ -4,6 +4,8 @@ Gemfile.lock
 
 old/*
 gluexweb.xcworkspace/*
+papers/*
 
 _site/old/*
 _site/gluexweb.xcworkspace/*
+_site/papers/*
