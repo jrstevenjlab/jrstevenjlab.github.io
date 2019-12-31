@@ -135,8 +135,8 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
@@ -252,8 +252,4 @@
       @include relative-font-size(1.125);
     }
   }
-}
-
-.foo table {
-  border-collapse:collapse;
 }

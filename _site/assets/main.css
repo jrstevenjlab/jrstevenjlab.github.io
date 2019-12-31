@@ -95,7 +95,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
 
-.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+.footer-col-1 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
 
 .footer-col-2 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
 
@@ -131,8 +131,6 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
 .post-content h4 { font-size: 20px; }
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
-
-.foo table { border-collapse: collapse; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }

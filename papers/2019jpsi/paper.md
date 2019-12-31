@@ -13,7 +13,7 @@ layout: default
 ### Abstract:  
 {{ item.abstract }}
 ### Journal: [{{ item.citation }}](https://doi.org/{{ item.doi }})  
-### arXiv: [arXiv:{{ page.arXiv }}](https://arxiv.org/abs/{{ item.arXiv }})  
+### arXiv: [arXiv:{{ item.arXiv }}](https://arxiv.org/abs/{{ item.arXiv }})  
 ### HEPdata: [link](https://www.hepdata.net/record/{{ item.hepdata }})   
 {% endif %}
 {% endfor %}
