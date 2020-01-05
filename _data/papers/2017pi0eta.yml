@@ -25,8 +25,8 @@
 
 - figure: 5
   papername: 2017pi0eta
-  caption: $\vec{\gamma}p\to p\pi^0$ yield (statistical errors only) versus $\phi_p$ integrated over $-t$ for (a) PERP and (b) PARA.  (c) The yield asymmetry, fit with Eq.~(\ref{eqn:asym}) to extract $\Sigma$.
+  caption: $\vec{\gamma}p\to p\pi^0$ yield (statistical errors only) versus $\phi_p$ integrated over $-t$ for (a) PERP and (b) PARA.  (c) The yield asymmetry, fit with Eq. (4) to extract $\Sigma$.
 
 - figure: 6
   papername: 2017pi0eta
-  caption: Beam asymmetry $\Sigma$ for (a) $\vec{\gamma}p\to p\pi^0$ and (b) $\vec{\gamma}p\to p\eta$ (black filled circles).  Uncorrelated systematic errors are indicated by gray bars and combined statistical and systematic uncertainties are given by the black error bars. The previous SLAC results~\cite{Anderson1971} at $\overline{E}_\gamma=$10~GeV (blue open circles) are also shown along with various Regge theory calculations.
+  caption: Beam asymmetry $\Sigma$ for (a) $\vec{\gamma}p\to p\pi^0$ and (b) $\vec{\gamma}p\to p\eta$ (black filled circles).  Uncorrelated systematic errors are indicated by gray bars and combined statistical and systematic uncertainties are given by the black error bars. The previous SLAC results [19] at $\overline{E}_\gamma=$10 GeV (blue open circles) are also shown along with various Regge theory calculations.
