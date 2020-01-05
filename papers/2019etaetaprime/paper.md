@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: paper
 papername: 2019etaetaprime
 ---
