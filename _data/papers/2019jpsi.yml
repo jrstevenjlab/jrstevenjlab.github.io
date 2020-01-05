@@ -12,4 +12,4 @@
 
 - figure: 2
   papername: 2019jpsi
-  caption: $J/\psi$ total cross section vs beam energy, compared to previous data \cite{Cornell,SLAC}, theoretical predictions \cite{Brodsky,Kharzeev}, and JPAC model \cite{Blin} for $\mathcal{B}(P_c^+(4440) \to J/\psi p)=1.6\%$ and $J^P=3/2^-$. All curves are fitted/scaled to the GlueX data only. For our data the quadratic sums of statistical and systematic errors are shown; the overall normalization uncertainty is $27\%$.
+  caption: $J/\psi$ total cross section vs beam energy, compared to previous data [15, 16], theoretical predictions [11, 13], and JPAC model [6] for $\mathcal{B}(P_c^+(4440) \to J/\psi p)=1.6\%$ and $J^P=3/2^-$. All curves are fitted/scaled to the GlueX data only. For our data the quadratic sums of statistical and systematic errors are shown; the overall normalization uncertainty is $27\%$.
