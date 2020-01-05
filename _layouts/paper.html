@@ -1,21 +1,18 @@
 ---
 layout: default
-papername: 2017pi0eta
 ---
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
 
 {% for paper_hash in site.data.papers %}
 {% assign papers = paper_hash[1] %}
 {% for item in papers %}
 {% if item.name contains page.papername %}
-# {{ item.title }} 
-### Abstract:  
+<h1> {{ item.title }} </h1>
+<h3> Abstract: </h3>
 {{ item.abstract }}
-### Journal: [{{ item.citation }}](https://doi.org/{{ item.doi }})  
-### arXiv: [arXiv:{{ item.arXiv }}](https://arxiv.org/abs/{{ item.arXiv }})  
-### HEPdata: [link](https://www.hepdata.net/record/{{ item.hepdata }})   
+<br> <br>
+<h3> Journal: <a href="https://doi.org/{{ item.doi }}">{{ item.citation }}</a> </h3>
+<h3> arXiv: <a href="https://arxiv.org/abs/{{ item.arXiv }}">arXiv:{{ item.arXiv }}</a></h3>
+<h3> HEPdata: <a href="https://www.hepdata.net/record/{{ item.hepdata }}">link<a> </h3>
 {% endif %}
 {% endfor %}
 {% endfor %}
@@ -25,7 +22,7 @@ papername: 2017pi0eta
     {% for paper_hash in site.data.papers %}
     {% assign papers = paper_hash[1] %}
     {% for item in papers %}
-    {%- if item.figure -%}
+    {%- if item.papername == page.papername -%}
         <tr>
             <td class="figure" id="Figure_{{item.figure}}">
                     <a href="fig{{item.figure}}.png">

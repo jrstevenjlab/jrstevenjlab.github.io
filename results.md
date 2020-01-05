@@ -2,8 +2,6 @@
 layout: default
 title: Results
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
 
 # Papers 
 
@@ -12,7 +10,7 @@ title: Results
 {% assign papers = paper_hash[1] %}
 {% for item in papers %}
 {%- if item.link -%}
-[{{ item.title }}]({{ item.link }}) {{ item.citation }}, arXiv:{{ item.arXiv }} 
+<a href="{{ item.link }}"> {{ item.title }} </a> {{ item.citation }}, arXiv:{{ item.arXiv }} 
 {%- endif -%}
 {% endfor %}
 {% endfor %}
