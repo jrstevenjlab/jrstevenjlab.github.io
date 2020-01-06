@@ -10,15 +10,27 @@
   papername: 2019etaetaprime
   caption: The measured degree of linear polarization for the four diamond orientations is plotted as a function of the photon energy, offset from one another in energy for clarity. Events with energy between 8.2-8.8 GeV are selected, as demarcated by the vertical lines.
   
-- figure: 2
+- figure: 2a
   papername: 2019etaetaprime
   caption: The yields of $\eta$ (a) and $\eta^{\prime}$ (b) events are plotted as a function of $-t$ after all selection cuts are applied. The acceptance functions for $\gamma p\rightarrow\eta p  (p\gamma\gamma)$ and $\gamma p\rightarrow\eta' p  (p\pi^{+}\pi^{-}\gamma\gamma)$, shown as the dashed curves, are determined from Monte Carlo simulation using a Regge model.
   
-- figure: 3
+- figure: 2b
+  papername: 2019etaetaprime
+  caption: The yields of $\eta$ (a) and $\eta^{\prime}$ (b) events are plotted as a function of $-t$ after all selection cuts are applied. The acceptance functions for $\gamma p\rightarrow\eta p  (p\gamma\gamma)$ and $\gamma p\rightarrow\eta' p  (p\pi^{+}\pi^{-}\gamma\gamma)$, shown as the dashed curves, are determined from Monte Carlo simulation using a Regge model.
+  
+- figure: 3a
+  papername: 2019etaetaprime
+  caption: (a) The yields integrated over the full range of $-t$, $Y_{\perp}$ and $Y_{\parallel}$, are shown for the $\eta$ events using one set of orthogonally polarized data, and (b) the yield asymmetry is shown, fitted with a $\chi^2/\mathrm{ndf} = 25.59/28$.
+  
+- figure: 3b
   papername: 2019etaetaprime
   caption: (a) The yields integrated over the full range of $-t$, $Y_{\perp}$ and $Y_{\parallel}$, are shown for the $\eta$ events using one set of orthogonally polarized data, and (b) the yield asymmetry is shown, fitted with a $\chi^2/\mathrm{ndf} = 25.59/28$.
 
-- figure: 4
+- figure: 4a
+  papername: 2019etaetaprime
+  caption: The photon beam asymmetry $\Sigma_{\eta}$  is shown as a function of $-t$ for ${\vec{\gamma}p \rightarrow p\eta}$. The vertical error bars represent the total errors and the horizontal error bars represent the RMS widths of the $-t$ distributions in each bin. Previous GlueX (2017) results [13] are shown along with predictions from several Regge theory calculations$:$ Laget [25,26], JPAC [2] and Goldstein [28].
+  
+- figure: 4b
   papername: 2019etaetaprime
   caption: The photon beam asymmetry $\Sigma_{\eta}$  is shown as a function of $-t$ for ${\vec{\gamma}p \rightarrow p\eta}$. The vertical error bars represent the total errors and the horizontal error bars represent the RMS widths of the $-t$ distributions in each bin. Previous GlueX (2017) results [13] are shown along with predictions from several Regge theory calculations$:$ Laget [25,26], JPAC [2] and Goldstein [28].
 

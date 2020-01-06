@@ -12,7 +12,9 @@ layout: default
 <br> <br>
 <h3> Journal: <a href="https://doi.org/{{ item.doi }}">{{ item.citation }}</a> </h3>
 <h3> arXiv: <a href="https://arxiv.org/abs/{{ item.arXiv }}">arXiv:{{ item.arXiv }}</a></h3>
+{%- if item.hepdata -%}
 <h3> HEPdata: <a href="https://www.hepdata.net/record/{{ item.hepdata }}">link<a> </h3>
+{%- endif -%}
 {% endif %}
 {% endfor %}
 {% endfor %}
