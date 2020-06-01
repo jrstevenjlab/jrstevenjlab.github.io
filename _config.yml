@@ -21,7 +21,12 @@ instagram_username: gluexexperiment
 
 # Build settings
 theme: minima
+#theme: minimal-mistakes-jekyll
+#theme: minimal
+#theme: hyde
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-gist
+ - jekyll-twitter-plugin
