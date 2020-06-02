@@ -67,18 +67,12 @@ title: Collaboration
 
 ## Theory Advisory Group
 
-Svetlana Barkanova, Acadia University
-Aleksandrs Aleksejevs, Acadia University
-Simon Capstick, Florida State University
-Vincent Mathieu, Complutense University of Madrid
-Adam Szczepaniak, Indiana University
-Jozef Dudek, Jefferson Lab/W&M
-Eric Swanson, University of Pittsburgh
-
-
-
-
-
-
+Svetlana Barkanova, Acadia University  
+Aleksandrs Aleksejevs, Acadia University  
+Simon Capstick, Florida State University  
+Vincent Mathieu, Complutense University of Madrid  
+Adam Szczepaniak, Indiana University  
+Jozef Dudek, Jefferson Lab/W&M  
+Eric Swanson, University of Pittsburgh  
 
  
