@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  {% include mathjax_support %}
+
+  <body>
+     
+    {%- include header.html -%}
+    
+    <table>
+            <tr>
+                <td align="center"> {{ content }} </td>
+                <td width="250">
+                    <a class="twitter-timeline" data-width="250" data-height="400" data-theme="light" data-align="center" href="https://twitter.com/Glue_X?ref_src=twsrc%5Etfw">Tweets by Glue_X</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </td>
+            </tr>
+    </table>
+    
+    <!--
+
+    <main class="page-content" aria-label="Content">
+        <div class="row">
+          <div class="col-md-8">
+          </div>
+          <div class="col-md-4">
+              <a class="twitter-timeline" href="https://twitter.com/Glue_X?ref_src=twsrc%5Etfw">Tweets by GlueX</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+        </div>
+        
+      <div class="w3-sidebar w3-bar-block" style="width:45%">
+          <a class="twitter-timeline" data-width="250" data-height="500" data-theme="light" data-align="center" href="https://twitter.com/Glue_X?ref_src=twsrc%5Etfw">Tweets by Glue_X</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+    </main>
+-->
+    
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
