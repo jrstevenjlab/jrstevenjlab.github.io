@@ -64,3 +64,21 @@ title: Collaboration
 ##  The Collaboration
 
 <iframe height="3050" width="500" style="border:none;" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTQ2Kj8axbKvDFZpLEI9UH3vmMNNa_m7e-UKlu-ryfV4-K7dewiB2druNzDZHjUnfFzRVczwP9Oiflz/pubhtml?gid=2044163570&single=true&widget=true&headers=false"></iframe>
+
+## Theory Advisory Group
+
+Svetlana Barkanova, Acadia University
+Aleksandrs Aleksejevs, Acadia University
+Simon Capstick, Florida State University
+Vincent Mathieu, Complutense University of Madrid
+Adam Szczepaniak, Indiana University
+Jozef Dudek, Jefferson Lab/W&M
+Eric Swanson, University of Pittsburgh
+
+
+
+
+
+
+
+ 
