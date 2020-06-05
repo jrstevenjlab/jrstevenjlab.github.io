@@ -4,7 +4,7 @@ title: Physics
 ---
 # Physics 
 
-The goal of the GlueX experiment search for and study hybrid mesons.
+ The goal of the GlueX experiment is to search for and study hybrid mesons.
  Hybrid mesons, and in particular exotic hybrid mesons, provide the ideal
  laboratory for testing QCD in the confinement regime since these mesons
  explicitly manifest the gluonic degrees of freedom. Photoproduction is
