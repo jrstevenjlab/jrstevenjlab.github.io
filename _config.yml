@@ -14,6 +14,12 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
+header_pages:
+- results.md
+- collaboration.md
+- bylaws.md
+- management_plan.md
+
 # generate social links in footer
 twitter_username: Glue_X
 facebook_username: GlueXperiment
