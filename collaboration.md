@@ -17,6 +17,13 @@ title: Collaboration
 * Richard Jones, University of Connecticut (’20-’21)
 * Zisis Papandreou, University of Regina (’19-’20)
 
+## Topical Working Groups Conveners
+**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab)  
+**Beam Asymmetry:** Zisis Papandreou (University of Regina)  
+**Cross Section:** Justin Stevens (William & Mary)  
+**Di-lepton/Rare Processes:** Sean Dobbs (Florida State University)  
+**PrimEx-&eta;:** Alex Somov (Jefferson Lab)  
+
 ## Technical Coordinators
 **Calorimetry:** Zisis Papandreou (University of Regina) and Elton Smith (Jefferson Lab)  
 **Tracking** Curtis Meyer (Carnegie Mellon University) and Lubomir Pentchev (Jefferson Lab)  
@@ -64,16 +71,3 @@ title: Collaboration
 ##  The Collaboration
 
 <iframe height="3050" width="500" style="border:none;" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTQ2Kj8axbKvDFZpLEI9UH3vmMNNa_m7e-UKlu-ryfV4-K7dewiB2druNzDZHjUnfFzRVczwP9Oiflz/pubhtml?gid=2044163570&single=true&widget=true&headers=false"></iframe>
-
-
-## Theory Advisory Group
-
-Svetlana Barkanova, Acadia University  
-Aleksandrs Aleksejevs, Acadia University  
-Simon Capstick, Florida State University  
-Vincent Mathieu, Complutense University of Madrid  
-Adam Szczepaniak, Indiana University  
-Jozef Dudek, Jefferson Lab/W&M  
-Eric Swanson, University of Pittsburgh  
-
- 

@@ -64,6 +64,7 @@ While the initial period of beam in Hall D will be dedicated to commissioning an
 ### D.3 Access to Data
 1. Data taken during any run period or GlueX detector conﬁguration of a GlueX-endorsed experiment may be analyzed by any member of the GlueX Collaboration. 
 2. Members of the Collaboration shall inform the Physics Analysis Coordinator of their intent to analyze data in order to maximize eﬃciency. 
+3. GlueX welcomes discussion with non-member theorists. Non-member theorists may be given access to internal GlueX data only after approval of the Physics Analysis Coordinator in consultation with the Collaboration Board. GlueX data may only be published or shown publicly in accordance with GlueX bylaws.
 
 ## E Shift-Taking (Adopted: July 8, 2014; Revised April 15, 2019)
 
@@ -123,3 +124,13 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 5. The proponents of a paper will initially propose which non-GlueX members shall be included on the author list and communicate those names to the Collaboration Board for approval. 
 6. Any late additions to or removals from the author list must be approved by the Collaboration Board and communicated to the Collaboration. 
 7. In case of disputes, the GlueX Collaboration Board will make final decisions on authorship. 
+
+## G Officeholder Succession Rules (Adopted June 19, 2020)
+
+1. The term of the Spokesperson shall begin and end on September 1, following elections during or after the Spring Collaboration meeting. 
+2. If the Spokesperson resigns in the middle of a term, the Deputy Spokesperson becomes interim spokesperson, until a new election can be organized by the Collaboration Board. 
+3. If the Deputy Spokesperson resigns in the middle of a term, the Spokesperson initiates a search for a new deputy in accordance with the Management Plan. 
+4. If both Spokesperson and Deputy Spokesperson resign at the same time, the Collaboration Board must name an interim spokesperson and an interim deputy spokesperson within two weeks. Then an election for spokesperson should be initiated, supervised by the Collaboration Board. 
+5. If a Collaboration Board member resigns in the middle of a term, then the Board operates with one fewer member throughout the remainder of that person's term. 
+6. If two or more Board members resign creating multiple vacancies, then the Spokesperson appoints interim board members to temporarily fill the empty seats. An election to fill out the remaining vacant terms is initiated for these seats within two weeks. 
+7. If a member of the Board serves for less than one year of the full two-year term, the partial term will not count toward the two-consecutive-term limit specified in the Management Plan.
