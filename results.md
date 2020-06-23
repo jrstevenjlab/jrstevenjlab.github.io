@@ -5,7 +5,7 @@ title: Results
  
  <a href="http://inspirehep.net/search?p=find+collaboration+gluex"> List of GlueX publications on INSPIRE-HEP </a>
 
-# Physics Publications 
+# Publications 
 
 <!-- loop over paper files in _data directory -->
 {% for paper_hash in site.data.papers %}
@@ -16,3 +16,12 @@ title: Results
 {%- endif -%}
 {% endfor %}
 {% endfor %}
+
+# Recent Plenary Talks
+
+<!-- loop over talks in _data directory -->
+{% for item in site.data.talks %}
+<a href="{{ item.link }}"> {{ item.title }} </a>, {{item.conference}} ({{ item.name }})
+{% endfor %}
+
+
