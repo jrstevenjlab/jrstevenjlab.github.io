@@ -3,6 +3,7 @@
 Gemfile.lock
 
 old/*
+.sass-cache/*
 gluexweb.xcworkspace/*
 
 _site/*.xml
