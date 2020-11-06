@@ -11,9 +11,9 @@ title: Collaboration
 **Physics Analysis Coordinator:** Sean Dobbs, Florida State University (elected:  March-20)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)  
 **Collaboration Board:**
-* **Chair:** Reinhard Schumacher, Carnegie Mellon University (’20-’21)
+* **Chair:** Reinhard Schumacher, Carnegie Mellon University (’18-’21)
 * Volker Crede, Florida State University (’19-’20)
-* Mark Ito, Jefferson Lab (’20-’21)
+* Mark Ito, Jefferson Lab (’18-’21)
 * Richard Jones, University of Connecticut (’20-’21)
 * Zisis Papandreou, University of Regina (’19-’20)
 
