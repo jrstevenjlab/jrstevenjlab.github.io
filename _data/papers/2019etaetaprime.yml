@@ -33,8 +33,6 @@
 - figure: 5
   papername: 2019etaetaprime
   caption: The photon beam asymmetry $\Sigma_\eta$ is shown as a function of $-t$ for $\gamma p \rightarrow p\eta$.  The vertical error bars represent the total errors and the horizontal error bars along with predictions for several Regge theory calculations.  Previous GlueX (2017) results [13] are shown along with predictions for several Regge theory calculations, Laget [25,26], JPAC [3], EtaMAID [27], and Goldsein [28]. The 2.1$\%$ relative uncertainty is due largely to the polarization measurement.
-  
-  #The photon beam asymmetry $\Sigma_{\eta}$ is shown as a function of −t for $\gammap \rightarrow p\eta$. The vertical error bars represent the total errors and the horizontal error bars represent the rms widths of the $−t$ distributions in each bin. Previous GlueX (2017) results are shown along with predictions for several Regge theory calculations.  Laget, JPAC, EtaMAID, and Goldstein.#Previous GlueX (2017) results# [13] are shown along with predictions#several Regge theory calculations#: Laget #are shown along with predictions from several Regge theory calculations: #Laget [25, 26], JPAC [3], EtaMAID [27], and Goldstein [28]. #The 2.1\% relative uncertainty is due largely to the polarization measurement.
 
 - figure: 6
   papername: 2019etaetaprime
