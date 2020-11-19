@@ -12,4 +12,4 @@ _site/old/*
 _site/gluexweb.xcworkspace/*
 _site/papers/*/*.png
 _site/papers/*/*.pdf
-_site/papers/*/*.html
+#_site/papers/*/*.html
