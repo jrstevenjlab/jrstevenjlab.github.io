@@ -2,9 +2,17 @@
 import os
 import shutil
 
+# Notes:
+## Still don't have citations or references in figure captions automated, so need to do that by hand
+## Could find way to pull citation information from InspireHEP but haven't gotten there yet
+
+# fill out input source file location and citation information for given paper
 inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/K+Sigma0_BeamAsym_2019/"
 inputLatex = inputDir + "kpsig.tex"
 papername = "2019ksigma"
+citation = "  citation: Phys. Rev. C 101, 065206"
+doi = "  doi: 10.1103/PhysRevC.101.065206"
+arXiv = "  arXiv: 2003.08038"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -16,6 +24,7 @@ if not os.path.exists(figDir):
 
 numFigs = 0
 
+# loop over source file, create markdown for paper and write image files with proper naming convention
 with open(inputLatex) as fp:
     line = fp.readline()
     
@@ -55,9 +64,9 @@ with open(inputLatex) as fp:
                     abstract += line
             
             print("  abstract:", abstract, file=outfile)
-            print("  citation: ", file=outfile)
-            print("  doi: ", file=outfile)
-            print("  arXiv: ", file=outfile)
+            print(citation, file=outfile)
+            print(doi, file=outfile)
+            print(arXiv, file=outfile)
             print("  link: /papers/%s/paper.html\n" % papername, file=outfile)
     
     
