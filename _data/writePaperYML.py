@@ -18,21 +18,18 @@ numFigs = 0
 
 with open(inputLatex) as fp:
     line = fp.readline()
-    cnt = 1
     
     while line:
-        #print("Line {}: {}".format(cnt, line.strip()))
         line = fp.readline()
-        #print(type(line))
-        cnt += 1
-    
+        if len(line) > 0 and '%' in line[0]: continue
+            
         # Find title and abstract in text
         foundTitle = False
         foundAbstract = False
         if 'title{' in line:
             foundTitle = True
             print("- name:", papername, file=outfile)
-            removeStuff = ["~"]
+            removeStuff = ["\n", "~", "\\,", "\\\\"]
             for stuff in removeStuff:
                 line = line.replace(stuff," ")
             print("  title:", line[7:-2], file=outfile)
@@ -42,6 +39,7 @@ with open(inputLatex) as fp:
             # Loop until you find the end of the abstract
             while not foundAbstract:
                 line = fp.readline()
+                if '%' in line[0]: continue
                 
                 if 'end{abstract}' in line:
                     foundAbstract = True
@@ -66,24 +64,24 @@ with open(inputLatex) as fp:
         # Found figure in text
         if 'begin{figure}' in line:
             numFigs += 1
-            print("- figure: %d" % numFigs, file=outfile)
-            print("  papername:", papername, file=outfile)
+            caption = "  caption: "
             
             # Loop until you find end of figure
             foundFigureEnd = False
+            figurelabels = []
+            figurefiles = []
             while not foundFigureEnd:
                 line = fp.readline()
-                # print(line)
+                if '%' in line[0]: continue
                 
                 if 'end{figure}' in line:
                     foundFigureEnd = True
                     break
                     
                 if 'caption{' in line:
-                    caption = "  caption: "
-                    
                     line = line.replace(":",",")
-                    removeStuff = ["\n", "~"]
+                    line = line.replace("\%","%")
+                    removeStuff = ["\\n", "~"]
                     for stuff in removeStuff:
                         line = line.replace(stuff," ")
                                        
@@ -96,21 +94,21 @@ with open(inputLatex) as fp:
                         caption += line[9:-2]
                     else:
                         caption += line[9:]
-                    #caption += line[9:]
+                
                 
                     foundCaptionEnd = False
                     while not foundCaptionEnd:
                         line = fp.readline()
-                        
+                        if '%' in line[0]: continue
+                                
                         if 'end{' in line or 'label{' in line:
                             foundCaptionEnd = True
                             break
                         
                         # Need to strip out colons and new lines from captions
                         line = line.replace(":",",")
-                        removeStuff = ["\n", "~"]
-                        for stuff in removeStuff:
-                            line = line.replace(stuff," ")
+                        line = line.replace("\%","%")
+                        line = line.replace("\n"," ")
                         
                         # skip final closing parentheses
                         if '}' in line[len(line)-5:]:
@@ -118,13 +116,16 @@ with open(inputLatex) as fp:
                         else:
                             caption += line
                         
-                    print(caption)
-                    print(caption, file=outfile)
-                    print("", file=outfile)
                     
                 if 'includegraphics' in line:
                     #print(line)
                     extensions = [".pdf"]
+                    if len(figurelabels) == 0:
+                        figurelabels.append("fig%d" % numFigs)
+                    else:
+                        print("new subfigure")
+                        figurelabels[0] = "fig%da" % numFigs
+                        figurelabels.append("fig%d%c" % (numFigs, chr(ord('`')+len(figurelabels)+1)))
                     
                     for ext in extensions:
                         if ext in line:
@@ -139,8 +140,27 @@ with open(inputLatex) as fp:
                             pathName += ext
                             print(figName)
                             print(pathName)
-                            shutil.copyfile(inputDir + "/" + pathName, figDir + "/" + figName + ext)
-                            os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figName,figDir,figName))
+                            figurefiles.append(inputDir + "/" + pathName)
+                            
+                            #shutil.copyfile(inputDir + "/" + pathName, figDir + "/" + figName + ext)
+                            #os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figName,figDir,figName))
+
+            # print all subfigures
+            print(figurelabels)
+            for figurelabel,figurefile in zip(figurelabels,figurefiles): #subfigures:
+                figurenumber = figurelabel.replace("fig","")
+                print("- figure: %s" % figurenumber, file=outfile)
+                print("  papername:", papername, file=outfile)
+                
+                removeStuff = ["\n", "~", "\\,"]
+                for stuff in removeStuff:
+                    caption = caption.replace(stuff," ")
+                print(caption)
+                print(caption, file=outfile)
+                print("", file=outfile)
+                
+                shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
+                os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
 
 # move figure directory to proper location
 if os.path.exists("../papers/%s" % figDir):
