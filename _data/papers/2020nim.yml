@@ -48,7 +48,7 @@
 
 - figure: 11
   papername: 2020nim
-  caption: Attenuation of low-energy photons in foils with a thickness of  $3%$ of a radiation length for different materials as a function of photon energy. The W foil was selected to reduce the random background hits in the detector drift chambers. The attenuation coefficients  are taken from Ref. \cite{nist_xrays
+  caption: Attenuation of low-energy photons in foils with a thickness of  $3%$ of a radiation length for different materials as a function of photon energy. The W foil was selected to reduce the random background hits in the detector drift chambers. The attenuation coefficients  are taken from Ref. [20]
 
 - figure: 13
   papername: 2020nim
@@ -268,7 +268,7 @@
 
 - figure: 49
   papername: 2020nim
-  caption:  $K_S\to\pi^+\pi^-$ invariant mass resolution for the events shown in Fig. \ref{fig,invmass1}, as a function of $K_S$ momentum, both before and after a kinetic fit, which constrains energy and momentum conservation.    
+  caption:  $K_S\to\pi^+\pi^-$ invariant mass resolution for the events shown in Fig. 48, as a function of $K_S$ momentum, both before and after a kinetic fit, which constrains energy and momentum conservation.    
 
 - figure: 50a
   papername: 2020nim
