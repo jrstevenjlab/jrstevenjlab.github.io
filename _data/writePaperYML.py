@@ -7,12 +7,12 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/K+Sigma0_BeamAsym_2019/"
-inputLatex = inputDir + "kpsig.tex"
-papername = "2019ksigma"
-citation = "  citation: Phys. Rev. C 101, 065206"
-doi = "  doi: 10.1103/PhysRevC.101.065206"
-arXiv = "  arXiv: 2003.08038"
+inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_nim/GlueX_nim/"
+inputLatex = inputDir + "blah.tex"
+papername = "2020nim"
+citation = "  citation: NIM A 987 (2021) 164807"
+doi = "  doi: 10.1016/j.nima.2020.164807"
+arXiv = "  arXiv: 2005.14272"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -81,7 +81,7 @@ with open(inputLatex) as fp:
             figurefiles = []
             while not foundFigureEnd:
                 line = fp.readline()
-                if '%' in line[0]: continue
+                if len(line) > 0 and '%' in line[0]: continue
                 
                 if 'end{figure}' in line:
                     foundFigureEnd = True
@@ -98,20 +98,22 @@ with open(inputLatex) as fp:
                     print("checking caption")
                     print(line)
                     print(line[len(line)-10:])
-                    if '}' in line[len(line)-10:]:
+                    if '}' in line[len(line)-10:] and 'label' not in line:
                         print("found end of caption")
                         caption += line[9:-2]
                     else:
                         caption += line[9:]
                 
-                
                     foundCaptionEnd = False
                     while not foundCaptionEnd:
                         line = fp.readline()
-                        if '%' in line[0]: continue
-                                
+                        if len(line) > 0 and '%' in line[0]: continue
+                        print(line)
+                               
                         if 'end{' in line or 'label{' in line:
                             foundCaptionEnd = True
+                            foundFigureEnd = True
+                            print("found end of caption")
                             break
                         
                         # Need to strip out colons and new lines from captions
@@ -170,7 +172,10 @@ with open(inputLatex) as fp:
                 
                 shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
                 os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
-
+    
+    # anyting to be done with LaTeX file ends here
+    print("finished parsing LaTeX file")
+    
 # move figure directory to proper location
 if os.path.exists("../papers/%s" % figDir):
     shutil.rmtree("../papers/%s" % figDir)

@@ -1,0 +1,268 @@
+- name: 2020nim
+  title: The \gx  Beamline and Detector
+  abstract: The \gx  experiment at Jefferson Lab has been designed to study photoproduction reactions with a 9-GeV linearly polarized photon beam. The energy and arrival time of beam photons are tagged using a scintillator hodoscope and a scintillating fiber array. The photon flux is determined using a pair spectrometer, while the linear polarization of the photon beam is determined using a polarimeter based on triplet photoproduction. Charged-particle tracks from interactions in the central target are analyzed in a solenoidal field using a central straw-tube drift chamber and six packages of planar chambers with cathode strips and drift wires. Electromagnetic showers are reconstructed in a cylindrical scintillating fiber calorimeter inside the magnet and a lead-glass array downstream. Charged particle identification is achieved by measuring energy loss in the wire chambers and using the flight time of particles between the target and detectors outside the magnet. The signals from all detectors are recorded with flash ADCs and/or pipeline TDCs into memories allowing trigger decisions with a latency of 3.3\,$\mu$s. The detector operates routinely at trigger rates of 40 kHz and data rates of 600 megabytes per second. We describe the photon beam, the \gx  detector components, electronics, data-acquisition and monitoring systems, and the performance of the experiment during the first three  years of operation. 
+  citation: NIM A 987 (2021) 164807
+  doi: 10.1016/j.nima.2020.164807
+  arXiv: 2005.14272
+  link: /papers/2020nim/paper.html
+
+- figure: 4a
+  papername: 2020nim
+  caption: (Color online) Measurements of the root-mean-square width of the electron beam  in horizontal (left) and vertical (right) projections as a function of position along the beamline, based on harp scans (data points) of the electron beam. The radiator position is just upstream of the third data point. The primary collimator position is marked by the vertical line indicated by the arrow. The curve downstream of the radiator is an extrapolation from the measured data points, with extrapolation uncertainty indicated by the shaded regions.         
+
+- figure: 4b
+  papername: 2020nim
+  caption: (Color online) Measurements of the root-mean-square width of the electron beam  in horizontal (left) and vertical (right) projections as a function of position along the beamline, based on harp scans (data points) of the electron beam. The radiator position is just upstream of the third data point. The primary collimator position is marked by the vertical line indicated by the arrow. The curve downstream of the radiator is an extrapolation from the measured data points, with extrapolation uncertainty indicated by the shaded regions.         
+
+- figure: 5
+  papername: 2020nim
+  caption: (color online) (a) Collimated photon beam intensity versus energy as measured by the Pair Spectrometer. (b) Collimated photon beam polarization as a function of beam energy, as measured by the Triplet Polarimeter, with data points offset horizontally by $\pm0.015$ GeV for clarity. The labels PARA and PERP refer to orientations of the diamond radiator that result in polarization planes that are parallel and perpendicular to the horizontal, respectively.         
+
+- figure: 7
+  papername: 2020nim
+  caption: Schematic diagram of the tagging spectrometer, showing the paths of the electron and photon beams. Dotted lines indicate post-radiation electron trajectories identified by the energy the electron gave up to an associated radiated photon, as a fraction of the beam energy E$_0$. The Tagger focal plane detector arrays TAGH and TAGM are described in the text. 
+
+- figure: 8
+  papername: 2020nim
+  caption:  Conceptual overview of the tagger microscope design, showing the fiber bundles and light guides (left), and the orientation of these bundles aligned with the incoming electron beam direction in the tagger focal plane (right). The variation of the crossing angle $\beta$ is exaggerated for the sake of illustration.         
+
+- figure: 9
+  papername: 2020nim
+  caption: Schematic of electron trajectories in the region of the microscope. Shown are the three layers of hodoscope counters on either side of the microscope and the                 region covered by the microscope. 
+
+- figure: 10
+  papername: 2020nim
+  caption: Attenuation of low-energy photons in foils with a thickness of  $3%$ of a radiation length for different materials as a function of photon energy. The W foil was selected to reduce the random background hits in the detector drift chambers. The attenuation coefficients  are taken from Ref. \cite{nist_xrays}
+
+- figure: 12
+  papername: 2020nim
+  caption: Target cell for the liquid hydrogen target.  Dimensions are in mm.  
+
+- figure: 13
+  papername: 2020nim
+  caption: \label{fig,CDC_schematic}             Cross-section through the cylindrically symmetric Central Drift Chamber, along the beamline.} 
+
+- figure: 16
+  papername: 2020nim
+  caption: \label{FDC_wires_from_strips} Wire (avalanche) positions reconstructed from the strip information on the two cathodes in one FDC chamber. Only one quarter of the chamber is shown in this figure. }  
+
+- figure: 17a
+  papername: 2020nim
+  caption: \label{fig,dp_p} (Left) Momentum resolution for $\pi^-$ tracks. (Right) Momentum resolution for proton tracks.
+
+- figure: 17b
+  papername: 2020nim
+  caption: \label{fig,dp_p} (Left) Momentum resolution for $\pi^-$ tracks. (Right) Momentum resolution for proton tracks.
+
+- figure: 18a
+  papername: 2020nim
+  caption: \label{fig,angle res} (Left) Polar angle resolution for $\pi^-$ tracks. (Right) Azimuthal angle resolution for $\pi^-$ tracks. The resolutions are plotted as a function of the polar angle, $\theta$.
+
+- figure: 18b
+  papername: 2020nim
+  caption: \label{fig,angle res} (Left) Polar angle resolution for $\pi^-$ tracks. (Right) Azimuthal angle resolution for $\pi^-$ tracks. The resolutions are plotted as a function of the polar angle, $\theta$.
+
+- figure: 19
+  papername: 2020nim
+  caption: \label{fig,z-vertex} Reconstructed vertex positions within 1 cm radial  distance with respect to the beam line for an empty target measurement.  The curve shows the result of a fit to the vertex distribution used to determine the vertex resolution.  }  
+
+- figure: 20
+  papername: 2020nim
+  caption: \label{fig,bcal,bcal_assemblies}    Three-dimensional rendition of the light guides mounted at the end of the     BCAL, as well as the readout assemblies mounted over them. The     readout assemblies contain the     SiPMs and their electronics.  (Color online)   } 
+
+- figure: 22
+  papername: 2020nim
+  caption: \label{fig,bcal,eta_resolution}  The energy resolution, $\sigma_\gamma/E_\gamma$, for single photons in the a) BCAL and b) FCAL calculated from the $\eta$ mass distribution under the assumption that only the energy resolution contributes to its width.  Solid black circles are data and open red squares are simulation. Fitted curves including the stochastic and constant terms are indicated. (Color online)  
+
+- figure: 23
+  papername: 2020nim
+  caption: The \gx{} Start Counter surrounding the liquid-hydrogen   target assembly.  The incident beam travels from left to right down the central 
+
+- figure: 24
+  papername: 2020nim
+  caption: \label{fig,mt_diff} Mean time difference between one TOF long paddle of one plane with all other long paddles of the other plane. (Color online)
+
+- figure: 25
+  papername: 2020nim
+  caption: n{Time difference distribution between the vertex time computed from the start counter and the accelerator RF. The time from the RF does not contribute significantly to the width of the distribution. The fit function is a double Gaussian plus a third-degree polynomial.   %The vertical lines indicate the cuts used to identify a 250 MHz beam bunch.   } 
+
+- figure: 26
+  papername: 2020nim
+  caption: \label{fig,betavsp}$\beta$ of positive tracks versus track momentum, showing bands for $e^+$, $\pi^+$, $K^+$ and $p$ for the TOF detector. The color coding of the third dimension is in logarithmic scale.(Color online)
+
+- figure: 27a
+  papername: 2020nim
+  caption: \label{fig,betaproj}$\beta$ of positive tracks with 2 GeV/c momentum (left) and with 4 GeV/c (right).} 
+
+- figure: 27b
+  papername: 2020nim
+  caption: \label{fig,betaproj}$\beta$ of positive tracks with 2 GeV/c momentum (left) and with 4 GeV/c (right).} 
+
+- figure: 28
+  papername: 2020nim
+  caption: Schematic view of the Level-1 trigger system of the \gx{} experiment. The electronics boards are described in the text.} \label{fig,trig} 
+
+- figure: 30
+  papername: 2020nim
+  caption:  \label{fig,CODA} Schematic DAQ configuration for \gx. The high-speed DAQ connections between the ROCs and the ER are contained within an isolated network. The logical data paths are indicated by arrows, although physically they are routed through the 40 Gbit ethernet switch.  The online monitoring system uses its own separate 56 Infiniband switch. 
+
+- figure: 32
+  papername: 2020nim
+  caption: \label{fig,online_monitoring_processes}Processes distributed across several computers in the online monitoring system. DC, EB, and ER are the Data Concentrator, Event Builder, and Event Recorder processes, respectively, in the CODA DAQ system.}    
+
+- figure: 33
+  papername: 2020nim
+  caption: \label{fig,online_monitoring_PID}Invariant mass distributions showing $\pi^\circ$, $\omega$, $\rho$, and $\phi$ particles. These plots were generated online in about 1hr 40min by looking at roughly 2% of the data stream.}    
+
+- figure: 34
+  papername: 2020nim
+  caption: 
+
+- figure: 36a
+  papername: 2020nim
+  caption: 
+
+- figure: 36b
+  papername: 2020nim
+  caption: 
+
+- figure: 37
+  papername: 2020nim
+  caption: 
+
+- figure: 38a
+  papername: 2020nim
+  caption: \label{fig,omega mass} Reconstructed mass distributions for the reaction $\gamma p \to p\pi^0\pi^{\pm}(\pi^\mp)$ for a bin in $\phi$.   (Left) Distribution of the missing mass off the proton. (Right) Invariant mass distribution for the $\pi^+\pi^-\pi^0$ system.  The blue curves show the resonant contributions, the black curve show the polynomial backgrounds, and the red curve shows the sum.  (Color online)
+
+- figure: 38b
+  papername: 2020nim
+  caption: \label{fig,omega mass} Reconstructed mass distributions for the reaction $\gamma p \to p\pi^0\pi^{\pm}(\pi^\mp)$ for a bin in $\phi$.   (Left) Distribution of the missing mass off the proton. (Right) Invariant mass distribution for the $\pi^+\pi^-\pi^0$ system.  The blue curves show the resonant contributions, the black curve show the polynomial backgrounds, and the red curve shows the sum.  (Color online)
+
+- figure: 39
+  papername: 2020nim
+  caption: \label{fig,tracking efficiency} Tracking efficiency for $\pi^+$ tracks, determined by data and simulation using two methods. (Color online)
+
+- figure: 40a
+  papername: 2020nim
+  caption: \label{fig,fcalphotoneff} Photon reconstruction efficiency in FCAL determined from $\gamma p \to \omega p$, $\omega \to \pi^+\pi^-\pi^0$, $\pi^0 \to \gamma (\gamma)$ as a function of (left) photon energy and (right) photon polar angle.  Good agreement between data and simulation is observed in the fiducial region $\theta = 2^\circ - 10.6^\circ$. (Color online) 
+
+- figure: 40b
+  papername: 2020nim
+  caption: \label{fig,fcalphotoneff} Photon reconstruction efficiency in FCAL determined from $\gamma p \to \omega p$, $\omega \to \pi^+\pi^-\pi^0$, $\pi^0 \to \gamma (\gamma)$ as a function of (left) photon energy and (right) photon polar angle.  Good agreement between data and simulation is observed in the fiducial region $\theta = 2^\circ - 10.6^\circ$. (Color online) 
+
+- figure: 41
+  papername: 2020nim
+  caption: \label{fig,bcalpi0photoneff} Ratios of relative photon reconstruction efficiency between data and simulation determined from $\pi^0\to\gamma \gamma$ decays in $\gamma p \to  \pi^+\pi^-\pi^0 p$ events.  The efficiency ratios are shown for the cases where (left) both photons were measured in the BCAL, (middle) both photons were measured in the FCAL, and (right) one photon was measured in the BCAL and the other in the FCAL. 
+
+- figure: 42
+  papername: 2020nim
+  caption: \label{fig,kinfitperform} Distribution of kinematic fit (left) probability and (right) $\chi^2$ for reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events in data and simulation.  Both distributions agree reasonably for well-measured events, and diverge due to additional background in data and differences in modeling poorly-measured events.  (Color online)
+
+- figure: 43a
+  papername: 2020nim
+  caption: \label{fig,kinfitpulls} Pull distributions for momentum components of the $\pi^-$ from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events in data and simulation for events with fit probability $>0.01$, (left) $p_x$, (center) $p_y$, (right) $p_z$.  (Color online)
+
+- figure: 43b
+  papername: 2020nim
+  caption: \label{fig,kinfitpulls} Pull distributions for momentum components of the $\pi^-$ from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events in data and simulation for events with fit probability $>0.01$, (left) $p_x$, (center) $p_y$, (right) $p_z$.  (Color online)
+
+- figure: 43c
+  papername: 2020nim
+  caption: \label{fig,kinfitpulls} Pull distributions for momentum components of the $\pi^-$ from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events in data and simulation for events with fit probability $>0.01$, (left) $p_x$, (center) $p_y$, (right) $p_z$.  (Color online)
+
+- figure: 44a
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44b
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44c
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44d
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44e
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44f
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44g
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44h
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44i
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44j
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44k
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 44l
+  papername: 2020nim
+  caption: \label{fig,kinfitstudy} Pull means (top) and sigmas (bottom) for the momentum components of each particle as a function of the minimum probability required of the fit from reconstructed $\gamma p \to \eta p$,  $\eta \to \pi^+\pi^-\pi^0$ events.  (Color online)
+
+- figure: 45a
+  papername: 2020nim
+  caption: \label{fig,invmass1} (Left) $\pi^+\pi^-\pi^0$ invariant-mass distribution from $\gamma p \to \pi^+\pi^-\pi^0 p$ (Right) $\pi^+\pi^-$ invariant mass distribution from $\gamma p \to K_S K^+ \pi^- p$, $K_S\to\pi^+\pi^-$. (Color online)
+
+- figure: 45b
+  papername: 2020nim
+  caption: \label{fig,invmass1} (Left) $\pi^+\pi^-\pi^0$ invariant-mass distribution from $\gamma p \to \pi^+\pi^-\pi^0 p$ (Right) $\pi^+\pi^-$ invariant mass distribution from $\gamma p \to K_S K^+ \pi^- p$, $K_S\to\pi^+\pi^-$. (Color online)
+
+- figure: 46
+  papername: 2020nim
+  caption: \label{fig,invmass1a} $K_S\to\pi^+\pi^-$ invariant mass resolution for the events shown in Fig. \ref{fig,invmass1}, as a function of $K_S$ momentum, both before and after a kinetic fit, which constrains energy and momentum conservation.   (Color online)
+
+- figure: 47a
+  papername: 2020nim
+  caption: \label{fig,invmass2} (Left) $\Lambda^0\pi^-$ invariant mass distribution from $\gamma p \to K^+ K^+ \pi^- \pi^- p$. (Right) $e^+e^-$ invariant mass distribution from kinematically fit $\gamma p \to e^+e^- p$ events. (Color online)
+
+- figure: 47b
+  papername: 2020nim
+  caption: \label{fig,invmass2} (Left) $\Lambda^0\pi^-$ invariant mass distribution from $\gamma p \to K^+ K^+ \pi^- \pi^- p$. (Right) $e^+e^-$ invariant mass distribution from kinematically fit $\gamma p \to e^+e^- p$ events. (Color online)
+
+- figure: 48
+  papername: 2020nim
+  caption: \label{fig,performcdcdedx} CDC energy loss ($dE/dx$) for positively charged particles that have at least 20 hits in the detector, as a function of measured particle momentum.  The band corresponding to protons curves upwards, showing a larger energy loss than pions and other lighter particles at low momentum.  The two bands show a clear separation for momenta  $\lesssim 1$ GeV.  A faint kaon band can be seen between them. 
+
+- figure: 49a
+  papername: 2020nim
+  caption: \label{fig,timingresol} Resolution as a function of particle momentum for  $\Delta t_\mathrm{RF}$ in various subdetectors, (left) BCAL, (center) FCAL, (right) TOF  (Color online)
+
+- figure: 49b
+  papername: 2020nim
+  caption: \label{fig,timingresol} Resolution as a function of particle momentum for  $\Delta t_\mathrm{RF}$ in various subdetectors, (left) BCAL, (center) FCAL, (right) TOF  (Color online)
+
+- figure: 49c
+  papername: 2020nim
+  caption: \label{fig,timingresol} Resolution as a function of particle momentum for  $\Delta t_\mathrm{RF}$ in various subdetectors, (left) BCAL, (center) FCAL, (right) TOF  (Color online)
+
+- figure: 50a
+  papername: 2020nim
+  caption: \label{fig,performeop} Electron identification in the calorimeters is performed using the $E/p$ variable, the ratio of the energy loss in the electromagnetic calorimeters ($E$) to the momentum reconstructed in the drift chambers ($p$).  Left) This distribution was obtained using $e^{\pm}$ showers reconstructed in the FCAL from the reaction $\gamma p \to \pi^0 p$, $\pi^0\to e^+e^-\gamma$. Right) $e^{\pm}$ showers reconstructed in the BCAL from photon conversions. 
+
+- figure: 50b
+  papername: 2020nim
+  caption: \label{fig,performeop} Electron identification in the calorimeters is performed using the $E/p$ variable, the ratio of the energy loss in the electromagnetic calorimeters ($E$) to the momentum reconstructed in the drift chambers ($p$).  Left) This distribution was obtained using $e^{\pm}$ showers reconstructed in the FCAL from the reaction $\gamma p \to \pi^0 p$, $\pi^0\to e^+e^-\gamma$. Right) $e^{\pm}$ showers reconstructed in the BCAL from photon conversions. 
+
+- figure: 51
+  papername: 2020nim
+  caption: \label{fig,plot_rcdb3_phaseI}  Plot of integrated number of triggers versus the number of live days in 2017 and 2018. The legend provides the number of triggers for the four diamond orientations relative to the horizontal (0, 45, 90, 135$^\circ$) and the amorphous radiator. The trigger curves of the four diamond configurations fall on top of one another, as we attempted to match the amount of data taken for each configuration.  (Color online)      }  
+
