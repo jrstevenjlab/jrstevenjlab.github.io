@@ -31,6 +31,8 @@ with open(inputLatex) as fp:
     while line:
         line = fp.readline()
         if len(line) > 0 and '%' in line[0]: continue
+        line = line.replace("\gx","GlueX")
+        line = line.replace("\gx{}","GlueX")
             
         # Find title and abstract in text
         foundTitle = False
@@ -48,7 +50,9 @@ with open(inputLatex) as fp:
             # Loop until you find the end of the abstract
             while not foundAbstract:
                 line = fp.readline()
-                if '%' in line[0]: continue
+                if len(line) > 0 and '%' in line[0]: continue
+                line = line.replace("\gx","GlueX")
+                line = line.replace("\gx{}","GlueX")
                 
                 if 'end{abstract}' in line:
                     foundAbstract = True
@@ -57,7 +61,7 @@ with open(inputLatex) as fp:
                     continue
                 else:
                     # strip out \n (new line) from abstract
-                    removeStuff = ["\n", "~"]
+                    removeStuff = ["\n", "~", "\\,"]
                     for stuff in removeStuff:
                         line = line.replace(stuff," ")
                         
@@ -71,7 +75,7 @@ with open(inputLatex) as fp:
     
     
         # Found figure in text
-        if 'begin{figure}' in line:
+        if 'begin{figure' in line:
             numFigs += 1
             caption = "  caption: "
             
@@ -87,7 +91,7 @@ with open(inputLatex) as fp:
                     foundFigureEnd = True
                     break
                     
-                if 'caption{' in line:
+                if 'caption' in line:
                     line = line.replace(":",",")
                     line = line.replace("\%","%")
                     removeStuff = ["\\n", "~"]
@@ -97,6 +101,7 @@ with open(inputLatex) as fp:
                     # skip final closing parentheses
                     print("checking caption")
                     print(line)
+                    
                     print(line[len(line)-10:])
                     if '}' in line[len(line)-10:] and 'label' not in line:
                         print("found end of caption")
@@ -107,6 +112,7 @@ with open(inputLatex) as fp:
                     foundCaptionEnd = False
                     while not foundCaptionEnd:
                         line = fp.readline()
+                        
                         if len(line) > 0 and '%' in line[0]: continue
                         print(line)
                                
@@ -130,7 +136,7 @@ with open(inputLatex) as fp:
                     
                 if 'includegraphics' in line:
                     #print(line)
-                    extensions = [".pdf"]
+                    extensions = [".pdf",".png",".jpg"]
                     if len(figurelabels) == 0:
                         figurelabels.append("fig%d" % numFigs)
                     else:
@@ -152,9 +158,6 @@ with open(inputLatex) as fp:
                             print(figName)
                             print(pathName)
                             figurefiles.append(inputDir + "/" + pathName)
-                            
-                            #shutil.copyfile(inputDir + "/" + pathName, figDir + "/" + figName + ext)
-                            #os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figName,figDir,figName))
 
             # print all subfigures
             print(figurelabels)
@@ -163,15 +166,45 @@ with open(inputLatex) as fp:
                 print("- figure: %s" % figurenumber, file=outfile)
                 print("  papername:", papername, file=outfile)
                 
-                removeStuff = ["\n", "~", "\\,"]
+                removeStuff = ["\n", "~", "\\,", "]{", "(Color online)", "(color online)", "n{"]
                 for stuff in removeStuff:
                     caption = caption.replace(stuff," ")
+                caption = caption.replace("\gx{}","GlueX")
+                caption = caption.replace("\GX{}","GlueX")
+                caption = caption.replace("\gx","GlueX")
+                
+                # remove labels from caption
+                if 'label' in caption:
+                    labelIndex = caption.find('label')
+                    labelReplace = ""
+                    for i in range(-1,100):
+                        labelReplace += caption[labelIndex+i]
+                        if caption[labelIndex+i] == "}":
+                                break
+                    caption = caption.replace(labelReplace,"")
+                    
+                # strip closing brace from caption
+                if '}' in caption[len(caption)-10:]:
+                    for i in range(1,10):
+                        print(len(caption) - i)
+                        if caption[len(caption)-i] == '}':
+                            caption = caption[:len(caption)-i]
+                            break
+                    
                 print(caption)
                 print(caption, file=outfile)
                 print("", file=outfile)
                 
-                shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
-                os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
+                if '.pdf' in figurefile:
+                    shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
+                    os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
+                if '.png' in figurefile:
+                    shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".png")
+                    os.system("sips -s format pdf %s/%s.png --out %s/%s.pdf" % (figDir,figurelabel,figDir,figurelabel))
+                if '.jpg' in figurefile:
+                    shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".jpg")
+                    os.system("sips -s format png %s/%s.jpg --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
+                    os.system("sips -s format pdf %s/%s.jpg --out %s/%s.pdf" % (figDir,figurelabel,figDir,figurelabel))
     
     # anyting to be done with LaTeX file ends here
     print("finished parsing LaTeX file")
