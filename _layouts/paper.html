@@ -26,16 +26,16 @@ layout: default
     {% for item in papers %}
     {%- if item.papername == page.papername -%}
         <tr>
-            <td class="figure" id="Figure_{{item.figure}}">
+            <td class="figure" id="Figure_{{item.figure}}" width="50%">
                     <a href="fig{{item.figure}}.png">
                     <img src="fig{{item.figure}}.png"></a>
                     <br>
+                    <a href="https://doi.org/{{ item.doi }}">{{ item.citation }}</a>: downloads
                     <a href="fig{{item.figure}}.png">png</a>
                     <a href="fig{{item.figure}}.pdf">pdf</a>
             </td>
             <td class="legend">
-                <a href="{{ page.url }}#Figure_00{{item.figure}}"><i>Figure {{item.figure}}</i>
-                </a>
+                <a href="{{ page.url }}#Figure_00{{item.figure}}"><i>Figure {{item.figure}}: </i></a>
                 <br> {{item.caption}}
             </td>
         </tr>

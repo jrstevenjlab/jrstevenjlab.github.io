@@ -8,8 +8,12 @@
 
 - figure: 1
   papername: 2019jpsi
+  citation: PRL 123, 072001 (2019)
+  doi: 10.1103/PhysRevLett.123.072001
   caption: Electron-positron invariant mass spectrum from the data. The insert shows the $J/\psi$ region fitted with a linear polynomial plus a Gaussian (fit parameters shown).
 
 - figure: 2
   papername: 2019jpsi
+  citation: PRL 123, 072001 (2019)
+  doi: 10.1103/PhysRevLett.123.072001
   caption: $J/\psi$ total cross section vs beam energy, compared to previous data [15, 16], theoretical predictions [11, 13], and JPAC model [6] for $\mathcal{B}(P_c^+(4440) \to J/\psi p)=1.6\%$ and $J^P=3/2^-$. All curves are fitted/scaled to the GlueX data only. For our data the quadratic sums of statistical and systematic errors are shown; the overall normalization uncertainty is $27\%$.

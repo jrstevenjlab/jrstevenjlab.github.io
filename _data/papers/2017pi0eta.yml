@@ -9,24 +9,36 @@
 
 - figure: 1
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: (a) Photon beam intensity versus energy as measured by the pair spectrometer (not corrected for instrumental acceptance). (b) Photon beam polarization as a function of beam energy, as measured by the triplet polarimeter, with data points offset horizontally by $\pm$0.015 GeV for clarity.
 
 - figure: 2
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: (a) Energy loss $dE/dx$ versus postively charged track momentum and (b) the spectrum of missing mass squared for the reaction $\vec{\gamma} p \to p\gamma\gamma$.
 
 - figure: 3
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: $\gamma\gamma$ invariant mass distribution with clear peaks at the $\pi^0$ and $\eta$ masses, superimposed with background estimated from $\vec{\gamma} p \to p\omega$, $\omega \to \pi^0\gamma$ simulation.
 
 - figure: 4
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: Candidate event yield as a function of the proton momentum transfer $-t$ for (a) $\vec{\gamma} p \to p\pi^0$ and (b) $\vec{\gamma} p \to p\eta$, without corrections for instrumental acceptance.  The acceptance functions (red dashed), determined from MC simulation, are shown for comparison.
 
 - figure: 5
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: $\vec{\gamma}p\to p\pi^0$ yield (statistical errors only) versus $\phi_p$ integrated over $-t$ for (a) PERP and (b) PARA.  (c) The yield asymmetry, fit with Eq. (4) to extract $\Sigma$.
 
 - figure: 6
   papername: 2017pi0eta
+  citation: PRC  95, 042201, (2017)
+  doi: 10.1103/PhysRevC.95.042201
   caption: Beam asymmetry $\Sigma$ for (a) $\vec{\gamma}p\to p\pi^0$ and (b) $\vec{\gamma}p\to p\eta$ (black filled circles).  Uncorrelated systematic errors are indicated by gray bars and combined statistical and systematic uncertainties are given by the black error bars. The previous SLAC results [19] at $\overline{E}_\gamma=$10 GeV (blue open circles) are also shown along with various Regge theory calculations.

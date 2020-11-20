@@ -10,7 +10,7 @@ import shutil
 inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_nim/GlueX_nim/"
 inputLatex = inputDir + "blah.tex"
 papername = "2020nim"
-citation = "  citation: NIM A 987 (2021) 164807"
+papercitation = "  citation: NIM A 987 (2021) 164807"
 doi = "  doi: 10.1016/j.nima.2020.164807"
 arXiv = "  arXiv: 2005.14272"
 
@@ -68,7 +68,7 @@ with open(inputLatex) as fp:
                     abstract += line
             
             print("  abstract:", abstract, file=outfile)
-            print(citation, file=outfile)
+            print(papercitation, file=outfile)
             print(doi, file=outfile)
             print(arXiv, file=outfile)
             print("  link: /papers/%s/paper.html\n" % papername, file=outfile)
@@ -165,6 +165,8 @@ with open(inputLatex) as fp:
                 figurenumber = figurelabel.replace("fig","")
                 print("- figure: %s" % figurenumber, file=outfile)
                 print("  papername:", papername, file=outfile)
+                print(papercitation, file=outfile)
+                print(doi, file=outfile)
                 
                 removeStuff = ["\n", "~", "\\,", "]{", "(Color online)", "(color online)", "n{"]
                 for stuff in removeStuff:
