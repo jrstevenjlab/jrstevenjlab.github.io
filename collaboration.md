@@ -38,7 +38,7 @@ title: Collaboration
 
 ##  Collaborating Institutions and Institutional Contacts
 
-**Arizona State University:** Barry Ritchie  
+**Arizona State University:** Michael Dugger
 **University of Athens:** Christine Kourkoumelis  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
@@ -46,7 +46,6 @@ title: Collaboration
 **Duke University:** Haiyan Gao  
 **Florida International University:** Werner Boeglin  
 **Florida State University:** Paul Eugenio  
-**Forschungszentrum Juelich:** James Ritman  
 **George Washington University:** Igor Strakovsky  
 **U.of Glasgow:** Ken Livingston  
 **GSI:** Klaus Peters  
@@ -54,6 +53,7 @@ title: Collaboration
 **Indiana University:** Matthew Shepherd  
 **ITEP Moscow:** Ilya Larin  
 **Jefferson Lab:** Eugene Chudakov  
+**Forschungszentrum Juelich:** James Ritman  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **Massachusetts Institute of Technology:** Michael Williams  
 **MEPhI:** Sergei Somov  
