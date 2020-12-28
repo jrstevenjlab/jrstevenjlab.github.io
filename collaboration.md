@@ -12,10 +12,11 @@ title: Collaboration
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)  
 **Collaboration Board:**
 * **Chair:** Reinhard Schumacher, Carnegie Mellon University (’18-’21)
-* Volker Crede, Florida State University (’19-’20)
+* Volker Crede, Florida State University (’19-’22)
+* Liping Gan, University of North Carolina, Wilmington (’21-’22)  
 * Mark Ito, Jefferson Lab (’18-’21)
 * Richard Jones, University of Connecticut (’20-’21)
-* Zisis Papandreou, University of Regina (’19-’20)
+* Jon Zarling, University of Regina (’21-’22)
 
 ## Topical Working Groups Conveners
 **Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab)  
@@ -25,12 +26,14 @@ title: Collaboration
 **PrimEx-&eta;:** Alex Somov (Jefferson Lab)  
 
 ## Technical Coordinators
-**Calorimetry:** Zisis Papandreou (University of Regina) and Elton Smith (Jefferson Lab)  
-**Tracking** Curtis Meyer (Carnegie Mellon University) and Lubomir Pentchev (Jefferson Lab)  
+**Calorimetry:** Zisis Papandreou (University of Regina) and Mark Dalton (Jefferson Lab)  
+**Tracking** Naomi Jarvis (Carnegie Mellon University) and Lubomir Pentchev (Jefferson Lab)  
 **Beamline/Tagger:** Richard Jones (University of Connecticut) and Alex Somov (Jefferson Lab)  
 **Time of Flight:** Paul Eugenio (Florida State University) and Mark Ito (Jefferson Lab)  
+**DIRC:** Justin Stevens (William & Mary)  
+**Particle Identification:** Simon Taylor (Jefferson Lab)  
 **Software:** Mark Ito (Jefferson Lab)  
-**Calibration:** Sean Dobbs (Florida State University)  
+**Data Production:** Alexander Austregesilo (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
 **Engineering/Integration:** Tim Whitlatch (Jefferson Lab)  
 **Trigger/Monitoring/Controls:** David Lawrence, Alex Somov, and Hovanes Egiyan (Jefferson Lab)  
@@ -54,19 +57,20 @@ title: Collaboration
 **ITEP Moscow:** Ilya Larin  
 **Jefferson Lab:** Eugene Chudakov  
 **Forschungszentrum Juelich:** James Ritman  
+**Lamar University:** Philip Cole  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **Massachusetts Institute of Technology:** Michael Williams  
 **MEPhI:** Sergei Somov  
 **Norfolk State University :** Carlos Salgado  
 **North Carolina A&T State:** Ashot Gasparian  
-**U.of North Carolina, Wilmington:** Liping Gan  
+**U. of North Carolina, Wilmington:** Liping Gan  
 **Old Dominion University:** Moskov Amaryan  
 **Santa Maria University:** Will Brooks  
 **Tomsk State/Tomsk Polytechnic University:** Valery Lyubovitsky  
 **University of Regina:** Zisis Papandreou  
 **William & Mary:** Justin Stevens  
 **Wuhan University:** Zhenyu Zhang  
-**Yerevan Physics Institute:** Nerses Gevogyan  
+**Yerevan Physics Institute:** Arshak Asaturyan  
 
 ##  The Collaboration
 
