@@ -7,12 +7,12 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_nim/GlueX_nim/"
-inputLatex = inputDir + "blah.tex"
-papername = "2020nim"
-papercitation = "  citation: NIM A 987 (2021) 164807"
-doi = "  doi: 10.1016/j.nima.2020.164807"
-arXiv = "  arXiv: 2005.14272"
+inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx4272_piDelta_asymm/"
+inputLatex = inputDir + "GlueX_pimDeltapp.tex"
+papername = "2020deltapp"
+papercitation = "  citation: Submitted to PRC"
+doi = "  doi: " #10.1016/j.nima.2020.164807"
+arXiv = "  arXiv: 2009.07326"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -40,7 +40,7 @@ with open(inputLatex) as fp:
         if 'title{' in line:
             foundTitle = True
             print("- name:", papername, file=outfile)
-            removeStuff = ["\n", "~", "\\,", "\\\\"]
+            removeStuff = ["\n", "~", "\\,", "\\\\", "\\boldmath"]
             for stuff in removeStuff:
                 line = line.replace(stuff," ")
             print("  title:", line[7:-2], file=outfile)
@@ -61,12 +61,14 @@ with open(inputLatex) as fp:
                     continue
                 else:
                     # strip out \n (new line) from abstract
-                    removeStuff = ["\n", "~", "\\,"]
+                    removeStuff = ["\n", "~", "\\,", "\\boldmath", ":"]
                     for stuff in removeStuff:
                         line = line.replace(stuff," ")
                         
                     abstract += line
             
+            abstract = abstract.replace("\\textsc{GlueX}","GlueX")
+            abstract = abstract.replace("--","-")
             print("  abstract:", abstract, file=outfile)
             print(papercitation, file=outfile)
             print(doi, file=outfile)
@@ -94,7 +96,7 @@ with open(inputLatex) as fp:
                 if 'caption' in line:
                     line = line.replace(":",",")
                     line = line.replace("\%","%")
-                    removeStuff = ["\\n", "~"]
+                    removeStuff = ["\\n", "~", "{\n"]
                     for stuff in removeStuff:
                         line = line.replace(stuff," ")
                                        
@@ -126,6 +128,7 @@ with open(inputLatex) as fp:
                         line = line.replace(":",",")
                         line = line.replace("\%","%")
                         line = line.replace("\n"," ")
+                        line = line.replace("\!"," ")
                         
                         # skip final closing parentheses
                         if '}' in line[len(line)-5:]:
@@ -174,6 +177,7 @@ with open(inputLatex) as fp:
                 caption = caption.replace("\gx{}","GlueX")
                 caption = caption.replace("\GX{}","GlueX")
                 caption = caption.replace("\gx","GlueX")
+                caption = caption.replace("\textsc{GlueX}","GlueX")
                 
                 # remove labels from caption
                 if 'label' in caption:
