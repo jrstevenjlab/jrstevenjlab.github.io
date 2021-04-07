@@ -1,6 +1,6 @@
 #/Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/
 
-title: The GlueX Experiment
+title: GlueX Experiment
 #author: GitHub User
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -19,6 +19,7 @@ header_pages:
 - collaboration.md
 - bylaws.md
 - management_plan.md
+- thanks.md
 
 # generate social links in footer
 twitter_username: Glue_X

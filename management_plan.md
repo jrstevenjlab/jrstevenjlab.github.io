@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Management Plan
+title: Management
 ---
 # The Management Plan of the GlueX Collaboration
 Adopted: January 29, 2003; Revised: November 2, 2009
