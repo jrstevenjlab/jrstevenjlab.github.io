@@ -50,7 +50,7 @@ title: Collaboration
 **Florida International University:** Werner Boeglin  
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
-**U.of Glasgow:** Ken Livingston  
+**U. of Glasgow:** Peter Pauli  
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
