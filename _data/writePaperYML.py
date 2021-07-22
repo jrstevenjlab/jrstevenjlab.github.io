@@ -13,6 +13,7 @@ papername = "2020deltapp"
 papercitation = "  citation: Submitted to PRC"
 doi = "  doi: " #10.1016/j.nima.2020.164807"
 arXiv = "  arXiv: 2009.07326"
+hepdata = "  hepdata: 999999"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -73,6 +74,7 @@ with open(inputLatex) as fp:
             print(papercitation, file=outfile)
             print(doi, file=outfile)
             print(arXiv, file=outfile)
+	    print(hepdata, file=outfile)
             print("  link: /papers/%s/paper.html\n" % papername, file=outfile)
     
     
