@@ -61,6 +61,7 @@ title: Collaboration
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **Massachusetts Institute of Technology:** Michael Williams  
 **MEPhI:** Sergei Somov  
+**Mount Allison Univeristy:** David Hornidge
 **Norfolk State University :** Carlos Salgado  
 **North Carolina A&T State:** Ashot Gasparian  
 **U. of North Carolina, Wilmington:** Liping Gan  

@@ -116,6 +116,19 @@ The assigned duties of the other ﬁve CB Oﬃcers, as delegated by the Chair in
 
 If the need arises, either due to special circumstances or due to load factor, one or more Oﬃcers may request from the Chair the formation of subcommittees to assist in speciﬁc tasks. Such subcommittees are advisory to the CB and are to be recruited among Collaboration members. If necessary, non-Collaboration members may be invited to participate due to expertise and speciﬁc skills. Such subcommittees are of limited time duration and scope.
 
+## 3.6 Diversity and Inclusion Group
+The GlueX Collaboration affirms that diversity of experience, culture, and perspective is essential to achieving its objectives in producing and sharing relevant research that furthers our understanding of the physical world. Thus, the Collaboration is committed to maintaining an inclusive and equitable working environment for all members. The purpose of the Diversity and Inclusion Group (in this section, “the Group”) is to foster such an atmosphere of inclusivity and equity among all Collaboration members. There are two roles within the Diversity and Inclusion Group: Diversity and Inclusion Officers (in this section, “Officers”) and a Diversity and Inclusion Committee (in this section, “the Committee”).
+
+### 3.6.1 Diversity and Inclusion Officers
+Diversity and Inclusion Officers shall convey the Collaboration’s stance on matters of Diversity, Equity, and Inclusion among Collaboration members, as well as the broader JLab and nuclear physics community. Officers are charged with maintaining clear and open channels of communication, informing members of resources available to them at either their home institution or JLab, and actively promoting a culture of inclusivity within the Collaboration. They are also charged with listening and responding in a timely manner to concerns or suggestions raised by Collaboration members. Diversity and Inclusion Officers are encouraged to address concerns within the Collaboration in a way that promotes an atmosphere of inclusion while respecting the desires of those who are reporting the concern. Officers are not responsible for conducting investigations, and, at their discretion, shall guide members to support and advocacy resources at their local institution or the JLab ethics office, as appropriate for a given situation.
+
+There should be two Diversity and Inclusion Officers at any given time. Nominations for Officers are handled by the Diversity and Inclusion Committee, which will subsequently recommend its candidate(s) to the CB. The CB will then make the appointment of Officers from among nominees supplied by the Committee. If the CB finds none of the nominees appropriate, it will request that the Committee supply additional nominees. The Committee will consider criteria such as (but not limited to) seniority, gender, orientation, age, and cultural background. The term for Officers is two years. Terms will begin and end on June 1, and will be staggered such that one new Officer is selected yearly. If an Officer resigns with less than four months left in a term, the Committee may select one of its members to serve the remainder of the term; otherwise, the Committee will solicit nominations for a replacement Officer (in the usual manner) to complete the term. Training for Officers is self-directed.
+
+### 3.6.2 Diversity and Inclusion Committee
+The Diversity and Inclusion Committee will solicit nominees for Diversity and Inclusion Officers, and relay their recommendation(s) to the CB. The Committee will provide support to the Officers as needed, and also provide additional support and advocacy on matters of Diversity, Equity, and Inclusion internally. Additionally, the Committee may suggest educational speakers, materials, and resources to the CB.
+
+The Committee shall consist of the two Diversity and Inclusion Officers, as well as members selected by the CB. All Collaboration members in good standing are eligible to serve on the Committee.
+
 # 4 Changes to the MP
 The structure of the MP can be modiﬁed by the two-thirds majority vote rule in both the CB and the GlueX general memberships.
 
@@ -143,3 +156,4 @@ The following institutions comprised the membership at the date of the adoption 
 ## Amendments and Changes
 * On 10-Aug-2015 Section 3.2.1 was modified to change the term of the spokesperson from four to two years.
 * On 18-Jul-2018 Section 3.5.1 was modified to address structure of CB in the case a member changes institutions and Section 3.2.4 was added to define the role of the Physics Analysis Coordinator.
+* On 18-Oct-2021 Section 3.6 was added to add the Diversity and Inclusion Group to the Collaboration governance structure
