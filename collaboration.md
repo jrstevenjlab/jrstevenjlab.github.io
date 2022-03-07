@@ -11,9 +11,8 @@ title: Collaboration
 **Physics Analysis Coordinator:** Sean Dobbs, Florida State University (elected:  March-20)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)  
 **Collaboration Board:**
-<!-- * **Chair:** -->
+* **Chair:** Mark Dalton, Jefferson Lab (’22-’23)
 * Volker Crede, Florida State University (’19-’22)
-* Mark Dalton, Jefferson Lab (’22-’23)
 * Liping Gan, University of North Carolina, Wilmington (’21-’22)  
 * Naomi Jarvis, Carnegie Mellon University (’22-’23)
 * Richard Jones, University of Connecticut (’20-’23)
