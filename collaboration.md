@@ -42,7 +42,8 @@ title: Collaboration
 ##  Collaborating Institutions and Institutional Contacts
 
 **Arizona State University:** Michael Dugger  
-**University of Athens:** Christine Kourkoumelis  
+**University of Athens:** Christine Kourkoumelis 
+**University of Bonn:** Annika Thiel 
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
 **University of Connecticut:** Richard Jones  
