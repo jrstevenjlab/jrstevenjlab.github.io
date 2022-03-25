@@ -43,7 +43,7 @@ title: Collaboration
 
 **Arizona State University:** Michael Dugger  
 **University of Athens:** Christine Kourkoumelis  
-**University of Bonn:** Annika Thiel 
+**University of Bonn:** Annika Thiel  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
 **University of Connecticut:** Richard Jones  
