@@ -1,0 +1,63 @@
+- name: 2021alp
+  title: Search for photoproduction of axion-like particles at GlueX
+  abstract:  We present a search for axion-like particles, $a$, produced in photon-proton collisions at a center-of-mass energy of approximately 4 GeV, focusing on the scenario where the $a$-gluon coupling is dominant.  The search uses $a\to\gamma\gamma$ and $a\to\pi^+\pi^-\pi^0$ decays, and a data sample corresponding to an integrated luminosity of 168 pb$^{-1}$ collected with the \gluex detector. The search for $a\to\gamma\gamma$ decays is performed in the mass range of $180 < m_a < 480$ MeV, while the search for $a\to\pi^+\pi^-\pi^0$ decays   explores the $620 < m_a < 720$ MeV region.   No evidence for a signal is found,   and 90\% confidence-level exclusion limits are placed on the $a$-gluon coupling strength. These constraints are the most stringent to date over most of the mass ranges considered. 
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  arXiv: 2109.13439
+  hepdata: 999999
+  link: /papers/2021alp/paper.html
+
+- figure: 1a
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Fits to the (top) \diphoton and (bottom) \threepi invariant mass spectra after applying the accidental subtraction used to determine the $\pi^0$ and $\eta$ yields (shown here integrated over $t$). The blue dashed line shows the $\pi^0$ component; the cyan dotted lines show the $\eta$ components; the green dashed-dotted lines show the $\omega$ components; and the magenta dashed-double-dotted line shows the linear (power-law) background for the \diphoton (\threepi) channel. The red solid lines show the sum of all contributions. The residuals account for both the statistical and modeling uncertainties.   
+
+- figure: 1b
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Fits to the (top) \diphoton and (bottom) \threepi invariant mass spectra after applying the accidental subtraction used to determine the $\pi^0$ and $\eta$ yields (shown here integrated over $t$). The blue dashed line shows the $\pi^0$ component; the cyan dotted lines show the $\eta$ components; the green dashed-dotted lines show the $\omega$ components; and the magenta dashed-double-dotted line shows the linear (power-law) background for the \diphoton (\threepi) channel. The red solid lines show the sum of all contributions. The residuals account for both the statistical and modeling uncertainties.   
+
+- figure: 2a
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Signed local significances at each scan mass from (black points) all fits and (red lines) the expected distribution for the (top) \diphoton and (bottom) \threepi channels; if the best-fit signal-yield estimator is negative, the signed significance is negative and \textit{vice versa}. The error bars account for the correlation between nearest-neighbor fit results, which often produces outliers in pairs due to the $\sigma(m)/2$ step size.   
+
+- figure: 2b
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Signed local significances at each scan mass from (black points) all fits and (red lines) the expected distribution for the (top) \diphoton and (bottom) \threepi channels; if the best-fit signal-yield estimator is negative, the signed significance is negative and \textit{vice versa}. The error bars account for the correlation between nearest-neighbor fit results, which often produces outliers in pairs due to the $\sigma(m)/2$ step size.   
+
+- figure: 3a
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to \diphoton $ and (bottom) $a \to \threepi$ decays.
+
+- figure: 3b
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to \diphoton $ and (bottom) $a \to \threepi$ decays.
+
+- figure: 4a
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Exclusion limits at 90% CL (red solid) from this search compared to the expected sensitivity (dashed) from (top) \diphoton and (bottom) \threepi channels. The (dark shaded) $\pm 1\sigma$ and (light shaded) $\pm 2\sigma$ regions are also shown.   
+
+- figure: 4b
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Exclusion limits at 90% CL (red solid) from this search compared to the expected sensitivity (dashed) from (top) \diphoton and (bottom) \threepi channels. The (dark shaded) $\pm 1\sigma$ and (light shaded) $\pm 2\sigma$ regions are also shown.   
+
+- figure: 5
+  papername: 2021alp
+  citation: Phys. Rev. D105, 052007 (2022)
+  doi: 10.1103/PhysRevD.105.052007
+  caption:  Results from (red) this search compared to the (gray) previous bounds \cite{Williams_ALP_pheno  from LEP \cite{LEP_PRL,LEP_OPAL}, $\phi$ and $\eta'$ decays \cite{PDG}, and the (cyan line) \gluex limits recasted from Ref. \cite{GlueX_2017}  In addition, limits obtained from kaon decays \cite{kaon1,kaon2,kaon3,Williams_ALP_pheno} and the $B$-meson lifetime \cite{Williams_ALP_pheno}, which  have $\mathcal{O}(1)$ uncertainties induced by the unknown UV physics, are shown as hashed regions.   
+
