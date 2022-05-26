@@ -6,6 +6,7 @@
   arXiv: 2109.13439
   hepdata: 999999
   link: /papers/2021alp/paper.html
+  order: 8
 
 - figure: 1a
   papername: 2021alp
@@ -35,13 +36,13 @@
   papername: 2021alp
   citation: Phys. Rev. D105, 052007 (2022)
   doi: 10.1103/PhysRevD.105.052007
-  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to $\gamma\gamma$ $ and (bottom) $a \to $\pi^+\pi^-\pi^0$$ decays.
+  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to $\gamma\gamma$ $ and (bottom) $a \to \pi^+\pi^-\pi^0$ decays.
 
 - figure: 3b
   papername: 2021alp
   citation: Phys. Rev. D105, 052007 (2022)
   doi: 10.1103/PhysRevD.105.052007
-  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to $\gamma\gamma$ $ and (bottom) $a \to $\pi^+\pi^-\pi^0$$ decays.
+  caption:  Products of the acceptance and efficiency in bins of $t$ and $m_a$ for (top) $a \to $\gamma\gamma$ $ and (bottom) $a \to \pi^+\pi^-\pi^0$ decays.
 
 - figure: 4a
   papername: 2021alp
@@ -59,5 +60,5 @@
   papername: 2021alp
   citation: Phys. Rev. D105, 052007 (2022)
   doi: 10.1103/PhysRevD.105.052007
-  caption:  Results from (red) this search compared to the (gray) previous bounds [19]  from LEP [51,52], $\phi$ and $\eta'$ decays [31], and the (cyan line) \gluex limits recasted from Ref. [30].  In addition, limits obtained from kaon decays [19,50,53-55] and the $B$-meson lifetime [19,50], which  have $\mathcal{O}(1)$ uncertainties induced by the unknown UV physics, are shown as hashed regions.   
+  caption:  Results from (red) this search compared to the (gray) previous bounds [19]  from LEP [51,52], $\phi$ and $\eta'$ decays [31], and the (cyan line) \gluex limits recasted from Ref. [30].  In addition, limits obtained from kaon decays [19,50,53-55] and the $B$-meson lifetime [19,50], which  have $\mathcal{O}(1)$ uncertainties induced by the unknown UV physics, are shown as hashed regions.
 
