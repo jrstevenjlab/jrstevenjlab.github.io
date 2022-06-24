@@ -6,9 +6,9 @@ title: Collaboration
 
 ## Management
 
-**Spokesperson:** Matthew Shepherd, Indiana University (elected: Feb-20)  
-**Deputy Spokesperson:** Justin Stevens, William & Mary  (appointed: Feb-20)  
-**Physics Analysis Coordinator:** Sean Dobbs, Florida State University (elected:  March-20)  
+**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
+**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21)  
+**Physics Analysis Coordinator:** Sean Dobbs, Florida State University (re-elected:  June-22)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)  
 **Collaboration Board:**
 * **Chair:** Mark Dalton, Jefferson Lab (’22-’23)

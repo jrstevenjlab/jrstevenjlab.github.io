@@ -7,12 +7,12 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx4272_piDelta_asymm/"
-inputLatex = inputDir + "GlueX_pimDeltapp.tex"
-papername = "2020deltapp"
-papercitation = "  citation: Submitted to PRC"
-doi = "  doi: " #10.1016/j.nima.2020.164807"
-arXiv = "  arXiv: 2009.07326"
+inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx4971-ALP-gx1/"
+inputLatex = inputDir + "blah.tex"
+papername = "2021alp"
+papercitation = "  citation: Phys. Rev. D105, 052007 (2022)"
+doi = "  doi: 10.1103/PhysRevD.105.052007"
+arXiv = "  arXiv: 2109.13439"
 hepdata = "  hepdata: 999999"
 
 outname = "papers/%s.yml" % papername
@@ -74,7 +74,7 @@ with open(inputLatex) as fp:
             print(papercitation, file=outfile)
             print(doi, file=outfile)
             print(arXiv, file=outfile)
-	    print(hepdata, file=outfile)
+            print(hepdata, file=outfile)
             print("  link: /papers/%s/paper.html\n" % papername, file=outfile)
     
     
@@ -131,10 +131,12 @@ with open(inputLatex) as fp:
                         line = line.replace("\%","%")
                         line = line.replace("\n"," ")
                         line = line.replace("\!"," ")
-                        
+                                                
                         # skip final closing parentheses
                         if '}' in line[len(line)-5:]:
                             caption += line[:-2]
+                        #elif '{' in line[0] or '[' in line[0]:
+                        #    caption += line[1:]
                         else:
                             caption += line
                         
