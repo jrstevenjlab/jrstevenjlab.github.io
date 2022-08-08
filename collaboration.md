@@ -6,10 +6,6 @@ title: Collaboration
 
 ## Management
 
-**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
-**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21)  
-**Physics Analysis Coordinator:** Sean Dobbs, Florida State University (re-elected:  June-22)  
-**Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)  
 **Collaboration Board:**
 * **Chair:** Mark Dalton, Jefferson Lab (’22-’23)
 * Volker Crede, Florida State University (’19-’22)
@@ -17,11 +13,16 @@ title: Collaboration
 * Naomi Jarvis, Carnegie Mellon University (’22-’23)
 * Richard Jones, University of Connecticut (’20-’23)
 * Jon Zarling, University of Regina (’21-’22)
+**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
+**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21) 
+**Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)   
+**Physics Analysis Coordinator:** Sean Dobbs, Florida State University (re-elected: June-22)  
+* Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to the Physics Analysis Coordinator (sdobbs [at] jlab [dot] org) for dissemination.
 
 ## Topical Working Groups Conveners
-**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab)  
+**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab) and Malte Albrecht (Indianan University)
 **Beam Asymmetry:** Zisis Papandreou (University of Regina)  
-**Cross Section:** Justin Stevens (William & Mary)  
+**Cross Section:** Justin Stevens (William & Mary) and Susan Schadmand (GSI)
 **Di-lepton/Rare Processes:** Sean Dobbs (Florida State University)  
 **PrimEx-&eta;:** Alex Somov (Jefferson Lab)  
 
@@ -29,14 +30,14 @@ title: Collaboration
 **Calorimetry:** Zisis Papandreou (University of Regina) and Mark Dalton (Jefferson Lab)  
 **Tracking** Naomi Jarvis (Carnegie Mellon University) and Lubomir Pentchev (Jefferson Lab)  
 **Beamline/Tagger:** Richard Jones (University of Connecticut) and Alex Somov (Jefferson Lab)  
-**Time of Flight:** Paul Eugenio (Florida State University) and Mark Ito (Jefferson Lab)  
+**Time of Flight:** Paul Eugenio (Florida State University) and Beni Zihlmann (Jefferson Lab)  
 **DIRC:** Justin Stevens (William & Mary)  
 **Particle Identification:** Simon Taylor (Jefferson Lab)  
-**Software:** Mark Ito (Jefferson Lab)  
-**Data Production:** Alexander Austregesilo (Jefferson Lab)  
+**Software:** Alexander Austregesilo (Jefferson Lab) and Peter Pauli (Glasgow)  
+**Data Production:** Alexander Austregesilo (Jefferson Lab) and Igal Jaegle (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
 **Engineering/Integration:** Tim Whitlatch (Jefferson Lab)  
-**Trigger/Monitoring/Controls:** David Lawrence, Alex Somov, and Hovanes Egiyan (Jefferson Lab)  
+**Trigger/Monitoring/Controls:** Sergey Furletov, Alex Somov, and Hovanes Egiyan (Jefferson Lab)  
 **Magnet:** Beni Zihlmann (Jefferson Lab)
 
 ##  Collaborating Institutions and Institutional Contacts
