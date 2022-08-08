@@ -15,7 +15,7 @@ title: Collaboration
 * Jon Zarling, University of Regina (’21-’22)
 
 **Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
-**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21) 
+**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)   
 **Physics Analysis Coordinator:** Sean Dobbs, Florida State University (re-elected: June-22)  
 * Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to the Physics Analysis Coordinator (sdobbs [at] jlab [dot] org) for dissemination.
