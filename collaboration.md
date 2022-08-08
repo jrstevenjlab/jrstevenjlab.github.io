@@ -12,7 +12,7 @@ title: Collaboration
 * Liping Gan, University of North Carolina, Wilmington (’21-’22)  
 * Naomi Jarvis, Carnegie Mellon University (’22-’23)
 * Richard Jones, University of Connecticut (’20-’23)
-* Jon Zarling, University of Regina (’21-’22)
+* Jon Zarling, University of Regina (’21-’22)  
 **Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
 **Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21) 
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)   
