@@ -34,7 +34,7 @@ title: Collaboration
 **Time of Flight:** Paul Eugenio (Florida State University) and Beni Zihlmann (Jefferson Lab)  
 **DIRC:** Justin Stevens (William & Mary)  
 **Particle Identification:** Simon Taylor (Jefferson Lab)  
-**Software:** Alexander Austregesilo (Jefferson Lab) and Peter Pauli (Glasgow)  
+**Software:** Alexander Austregesilo (Jefferson Lab) and Peter Hurck (Glasgow)  
 **Data Production:** Alexander Austregesilo (Jefferson Lab) and Igal Jaegle (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
 **Engineering/Integration:** Tim Whitlatch (Jefferson Lab)  
@@ -53,7 +53,7 @@ title: Collaboration
 **Florida International University:** Werner Boeglin  
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
-**U. of Glasgow:** Peter Pauli  
+**U. of Glasgow:** Peter Hurck  
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
