@@ -8,10 +8,10 @@ title: Collaboration
 
 **Collaboration Board:**
 * **Chair:** Mark Dalton, Jefferson Lab (’22-’23)
-* Volker Crede, Florida State University (’19-’22)
-* Liping Gan, University of North Carolina, Wilmington (’21-’22)  
+* Peter Hurck, University of Glasgow (’23-’24)
 * Naomi Jarvis, Carnegie Mellon University (’22-’23)
 * Richard Jones, University of Connecticut (’20-’23)
+* Susan Schadmand, GSI (’23-’24)
 * Jon Zarling, University of Regina (’21-’22)
 
 **Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
@@ -62,7 +62,6 @@ title: Collaboration
 **Forschungszentrum Juelich:** James Ritman  
 **Lamar University:** Philip Cole  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
-**Massachusetts Institute of Technology:** Michael Williams  
 **MEPhI:** Sergei Somov  
 **Mount Allison Univeristy:** David Hornidge  
 **Norfolk State University :** Carlos Salgado  
