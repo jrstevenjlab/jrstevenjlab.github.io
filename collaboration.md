@@ -26,6 +26,7 @@ title: Collaboration
 **Cross Section:** Justin Stevens (William & Mary) and Susan Schadmand (GSI)  
 **Di-lepton/Rare Processes:** Sean Dobbs (Florida State University)  
 **PrimEx-&eta;:** Alex Somov (Jefferson Lab)  
+**Pion Polarizability:** Ilya Larin (University of Massachusetts Amherst)
 
 ## Technical Coordinators
 **Calorimetry:** Zisis Papandreou (University of Regina) and Mark Dalton (Jefferson Lab)  
