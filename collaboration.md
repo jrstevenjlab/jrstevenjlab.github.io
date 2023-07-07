@@ -74,7 +74,7 @@ title: Collaboration
 **University of Regina:** Zisis Papandreou  
 **William & Mary:** Justin Stevens  
 **Wuhan University:** Zhenyu Zhang  
-**Yerevan Physics Institute:** Arshak Asaturyan  
+**Yerevan Physics Institute:** Hrachya Marukyan  
 
 ##  The Collaboration
 

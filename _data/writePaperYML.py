@@ -7,12 +7,12 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx4971-ALP-gx1/"
-inputLatex = inputDir + "blah.tex"
-papername = "2021alp"
-papercitation = "  citation: Phys. Rev. D105, 052007 (2022)"
+inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/jpsi_prc/"
+inputLatex = inputDir + "jpsi_prc.tex"
+papername = "2023jpsi"
+papercitation = "  citation: Submitted to Phys. Rev. C"
 doi = "  doi: 10.1103/PhysRevD.105.052007"
-arXiv = "  arXiv: 2109.13439"
+arXiv = "  arXiv: 2304.03845"
 hepdata = "  hepdata: 999999"
 
 outname = "papers/%s.yml" % papername
@@ -24,6 +24,7 @@ if not os.path.exists(figDir):
     os.mkdir(figDir)
 
 numFigs = 0
+figWidth = 5000
 
 # loop over source file, create markdown for paper and write image files with proper naming convention
 with open(inputLatex) as fp:
@@ -207,13 +208,13 @@ with open(inputLatex) as fp:
                 
                 if '.pdf' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
-                    os.system("sips -s format png %s/%s.pdf --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
+                    os.system("sips -s format png -Z %d %s/%s.pdf --out %s/%s.png" % (figWidth,figDir,figurelabel,figDir,figurelabel))
                 if '.png' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".png")
-                    os.system("sips -s format pdf %s/%s.png --out %s/%s.pdf" % (figDir,figurelabel,figDir,figurelabel))
+                    os.system("sips -s format pdf %s/%s.png --out %s/%s.pdf --resampleWidth %d" % (figDir,figurelabel,figDir,figurelabel,figWidth))
                 if '.jpg' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".jpg")
-                    os.system("sips -s format png %s/%s.jpg --out %s/%s.png" % (figDir,figurelabel,figDir,figurelabel))
+                    os.system("sips -s format png %s/%s.jpg --out %s/%s.png --resampleWidth %d" % (figDir,figurelabel,figDir,figurelabel,figWidth))
                     os.system("sips -s format pdf %s/%s.jpg --out %s/%s.pdf" % (figDir,figurelabel,figDir,figurelabel))
     
     # anyting to be done with LaTeX file ends here
