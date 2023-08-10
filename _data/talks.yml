@@ -1,12 +1,24 @@
-- title: Accessing glue through photoproduction measurements at GlueX
-  name: Peter Pauli
-  conference: HADRON 2021, Virtual, July 26 - August, 2021
-  link: https://indico.nucleares.unam.mx/event/1541/session/4/contribution/255/material/slides/0.pdf
-- title: New results and future prospects from GlueX
-  name: Malte Albrecht
-  conference: PWA 12 / ATHOS 7, Hybrid, September 6-10, 2021
-  link: https://indico.cern.ch/event/885396/contributions/4373625/attachments/2304805/3920982/20210907_PWA_Athos_Albrecht.pdf
-- title: Recent Results from the Gluonic eXcitation Experiment (GlueX) at JLab
-  name: Daniel Lersch
-  conference: PANIC 2021, Virtual, Sept. 5-10, 2021
-  link: https://indico.lip.pt/event/592/contributions/2976/attachments/2637/4033/PANIC2021_Talk_Lersch.pdf
+- title: Exploring Meson Photoproduction with the GlueX Experiment
+  name: Matt Shepherd
+  conference: MESON 2023
+  link: https://indico.meson.if.uj.edu.pl/event/3/contributions/369/attachments/193/314/shepherd_meson.pdf
+- title: Meson Spectroscopy with GlueX
+  name: Alexander Austregesilo
+  conference: HADRON 2023
+  link: https://agenda.infn.it/event/33110/contributions/197405/attachments/106556/150145/Austregesilo_Hadron2023.pdf
+- title: Hadron spectroscopy at GlueX
+  name: Peter Hurck
+  conference: IWHSS 2023
+  link: https://indico.cern.ch/event/1250132/contributions/5361478/attachments/2674845/4638086/talk_IWHSS_PH.pdf
+#- title: Accessing glue through photoproduction measurements at GlueX
+#  name: Peter Pauli
+#  conference: HADRON 2021, Virtual, July 26 - August, 2021
+#  link: https://indico.nucleares.unam.mx/event/1541/session/4/contribution/255/material/slides/0.pdf
+#- title: New results and future prospects from GlueX
+#  name: Malte Albrecht
+#  conference: PWA 12 / ATHOS 7, Hybrid, September 6-10, 2021
+#  link: https://indico.cern.ch/event/885396/contributions/4373625/attachments/2304805/3920982/20210907_PWA_Athos_Albrecht.pdf
+#- title: Recent Results from the Gluonic eXcitation Experiment (GlueX) at JLab
+#  name: Daniel Lersch
+#  conference: PANIC 2021, Virtual, Sept. 5-10, 2021
+#  link: https://indico.lip.pt/event/592/contributions/2976/attachments/2637/4033/PANIC2021_Talk_Lersch.pdf

@@ -14,8 +14,8 @@ title: Collaboration
 * Susan Schadmand, GSI (’23-’24)
 * Jon Zarling, University of Regina (’21-’22)
 
-**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-21)  
-**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-21)  
+**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-23)  
+**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-23)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)   
 **Physics Analysis Coordinator:** Sean Dobbs, Florida State University (re-elected: June-22)  
 * Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to the Physics Analysis Coordinator (sdobbs [at] jlab [dot] org) for dissemination.
@@ -58,7 +58,7 @@ title: Collaboration
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
-**ITEP Moscow:** Ilya Larin  
+**National Research Centre Kurchatov Institute:** Ilya Larin  
 **Jefferson Lab:** Eugene Chudakov  
 **Forschungszentrum Juelich:** James Ritman  
 **Lamar University:** Philip Cole  
@@ -69,9 +69,10 @@ title: Collaboration
 **North Carolina A&T State:** Ashot Gasparian  
 **U. of North Carolina, Wilmington:** Liping Gan  
 **Old Dominion University:** Moskov Amaryan  
-**Santa Maria University:** Will Brooks  
-**Tomsk State/Tomsk Polytechnic University:** Valery Lyubovitsky  
 **University of Regina:** Zisis Papandreou  
+**Tomsk State/Tomsk Polytechnic University:** Valery Lyubovitsky  
+**Union College:** Colin Gleason  
+**Virginia Tech:** Marie Boer  
 **William & Mary:** Justin Stevens  
 **Wuhan University:** Zhenyu Zhang  
 **Yerevan Physics Institute:** Hrachya Marukyan  
