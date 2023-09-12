@@ -12,7 +12,7 @@ title: Collaboration
 * Naomi Jarvis, Carnegie Mellon University (’22-’23)
 * Richard Jones, University of Connecticut (’20-’23)
 * Susan Schadmand, GSI (’23-’24)
-* Jon Zarling, University of Regina (’21-’22)
+* Jon Zarling, University of Regina (’21-’24)
 
 **Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-23)  
 **Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-23)  
