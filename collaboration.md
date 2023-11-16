@@ -60,7 +60,7 @@ title: Collaboration
 **Indiana University:** Matthew Shepherd  
 **National Research Centre Kurchatov Institute:** Ilya Larin  
 **Jefferson Lab:** Eugene Chudakov  
-**Forschungszentrum Juelich:** James Ritman  
+**Ruhr-Universität-Bochum:** James Ritman  
 **Lamar University:** Philip Cole  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **MEPhI:** Sergei Somov  
