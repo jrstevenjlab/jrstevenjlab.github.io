@@ -36,7 +36,7 @@ title: Collaboration
 **DIRC:** Justin Stevens (William & Mary)  
 **Particle Identification:** Simon Taylor (Jefferson Lab)  
 **Software:** Alexander Austregesilo (Jefferson Lab) and Peter Hurck (Glasgow)  
-**Calibration:** Naomi Jarvis (Carnegie Mellon University)
+**Calibration:** Naomi Jarvis (Carnegie Mellon University)  
 **Data Production:** Alexander Austregesilo (Jefferson Lab) and Igal Jaegle (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
 **Engineering/Integration:** Tim Whitlatch (Jefferson Lab)  
