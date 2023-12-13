@@ -1,0 +1,82 @@
+- name: 2023rhoSDME
+  title: Measurement of Spin-Density Matrix Elements in $\rho(770)$ Production with a Linearly Polarized Photon Beam at $E_\gamma = 8.2 - 8.8 \text{GeV}$
+  abstract: The GlueX experiment at Jefferson Lab studies photoproduction of mesons using linearly polarized $8.5~\text{GeV}$ photons impinging on a hydrogen target which is contained within a detector with near-complete coverage for charged and neutral particles. We present measurements of spin-density matrix elements for the photoproduction of the vector meson $\rho$(770). The statistical precision achieved exceeds that of previous experiments for polarized photoproduction in this energy range by orders of magnitude. We confirm a high degree of $s$-channel helicity conservation at small squared four-momentum transfer $t$ and are able to extract the $t$-dependence of natural and unnatural-parity exchange contributions to the production process in detail. We confirm the dominance of natural-parity exchange over the full $t$ range. We also find that helicity amplitudes in which the helicity of the incident photon and the photoproduced $\rho(770)$ differ by two units are negligible for $-t<0.5~\text{GeV}^{2}/c^{2}$.
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  arXiv: 2305.09047
+  hepdata: 140672
+  link: /papers/2023rhoSDME/paper.html
+  order: 10
+
+- figure: 1
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption:  The squared missing mass distribution from the reaction $\gamma p \rightarrow \pi^{+}\pi^{-} X_\text{miss} p$ calculated using the values of momentum and energy of the final-state particles before they are constrained by the kinematic fit.
+
+- figure: 2
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption:  The distribution of the squared four-momentum transfer $-t$. The dashed vertical lines indicate the range analyzed.
+
+- figure: 3
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: The invariant mass distribution of the produced $\pi^+\pi^-$ system. The small differences between data and simulation are due to non-resonant background under the $\rho(770)$ and interference with the decay $\omega(782)\rightarrow\pi^+\pi^-$; neither of these are present in the simulation. For further analysis, the simulated events are re-weighted in order to match the mass distribution of the measured data exactly.
+
+- figure: 4a
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: Definition of the angles used to describe vector-meson photoproduction. The hadronic production plane and the $\rho$(770) decay plane are shown in red and blue, respectively. The photon polarization vector $P_\gamma$ is indicated in green. Diagram a) is in the center-of-mass frame of the reaction with the $z$ axis along the direction of the $\rho(770)$ meson; b) is boosted into the rest frame of the $\rho(770)$ meson, i.e. the helicity system.
+
+- figure: 4b
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: Definition of the angles used to describe vector-meson photoproduction. The hadronic production plane and the $\rho$(770) decay plane are shown in red and blue, respectively. The photon polarization vector $P_\gamma$ is indicated in green. Diagram a) is in the center-of-mass frame of the reaction with the $z$ axis along the direction of the $\rho(770)$ meson; b) is boosted into the rest frame of the $\rho(770)$ meson, i.e. the helicity system.
+
+- figure: 5
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: Evaluation of the fit by comparison of measured distributions (black) to phase-space simulation weighted with fit results (shaded green). The smaller contribution from the subtracted accidental background is  shown in red. Panel a) shows the comparison for the cosine of the helicity angle $\vartheta$ and b) compares the distribution of the helicity angle $\varphi$. Panel c) compares the azimuthal angle $\Phi$ of the polarization vector with respect to the production plane in the center-of-mass frame and d) shows the distribution of the difference between $\Phi$ and $\varphi$.  
+
+- figure: 6
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: Spin-density matrix elements for the photoproduction of $\rho(770)$ in the helicity system. Our results are shown in red, the error bars display the statistical and systematic uncertainties added in quadrature. The systematic uncertainties for the polarized SDMEs $\rho^1_{ij}$ and $\rho^2_{ij}$ contain an overall relative polarization uncertainty of $2.1\%$ which is fully correlated for all values of $t$. The earlier results from SLAC are shown in green. The horizontal black lines show the values for $s$-channel helicity conservation with natural parity exchange (SCHC + NPE), while the blue dashed curves show Regge theory predictions from JPAC with shaded, one-standard-deviation uncertainty bands.
+
+- figure: 7
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption:  The spin-density matrix elements for $\rho(770)$ photoproduction for natural- (top row) and unnatural-parity exchange (bottom row). See comments in  Fig. 6 caption for details.
+
+- figure: 8
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: Parity asymmetry $P_\sigma$ for $\rho(770)$ photoproduction. See comments in  Fig. 6 caption for details.
+
+- figure: 9
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: The sum of $\rho^1_{1-1}$ and $\Im  \rho^2_{1-1}$ for $\rho(770)$ photoproduction as a function of $-t$. See comments in  Fig. 6 caption for details.
+
+- figure: 10
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: The sum of $\Re\rho^0_{10}$ and $\Im  \rho^2_{10}$ for $\rho(770)$ photoproduction as a function of $-t$. See comments in  Fig. 6 caption for details.
+
+- figure: 11
+  papername: 2023rhoSDME
+  citation: Phys.Rev.C 108 (2023) 5, 055204
+  doi: 10.1103/PhysRevC.108.055204
+  caption: The sum of $\Re\rho^0_{10}$ and $\Re  \rho^1_{10}$ for $\rho(770)$ photoproduction as a function of $-t$. See comments in  Fig. 6 caption for details.
+
