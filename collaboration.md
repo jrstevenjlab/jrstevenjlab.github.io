@@ -7,10 +7,10 @@ title: Collaboration
 ## Management
 
 **Collaboration Board:**
-* **Chair:** Mark Dalton, Jefferson Lab (’22-’23)
+* **Chair:** Mark Dalton, Jefferson Lab (’22-’25)
 * Peter Hurck, University of Glasgow (’23-’24)
-* Naomi Jarvis, Carnegie Mellon University (’22-’23)
-* Richard Jones, University of Connecticut (’20-’23)
+* Cristiano Fanelli, William & Mary (’24-’25)
+* Naomi Jarvis, Carnegie Mellon University (’22-’25)
 * Susan Schadmand, GSI (’23-’24)
 * Jon Zarling, University of Regina (’21-’24)
 
