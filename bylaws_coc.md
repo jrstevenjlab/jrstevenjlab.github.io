@@ -2,7 +2,7 @@
 layout: default
 title: Bylaws
 ---
-# Bylaws of the GlueX Collaboration
+# Bylaws of the GlueX Collaboration (Proposed Modification: January, 30 2023)
 
 ## A Membership (Adopted: November 2, 2009)
 Membership to the GlueX Collaboration is granted to individual institutional groups by the Collaboration. Each such group should appoint a group leader who is responsible for interacting with the GlueX management throughout the membership process. The group leader then becomes the point of contact for the collaboration on all issues regarding the contributions of the group to the experiment and is responsible for notifying the GlueX management of changes in the institutional group’s membership (e.g., the addition of postdocs or graduate students). The group has the right at any stage to appoint a new or replacement group leader who is then obligated to ensure that the group’s commitments to the experiment are fulﬁlled.
@@ -135,7 +135,7 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 6. If two or more Board members resign creating multiple vacancies, then the Spokesperson appoints interim board members to temporarily fill the empty seats. An election to fill out the remaining vacant terms is initiated for these seats within two weeks. 
 7. If a member of the Board serves for less than one year of the full two-year term, the partial term will not count toward the two-consecutive-term limit specified in the Management Plan.
 
-## H Community Agreement (Proposed January, 30 2023)
+## H Community Agreement (Proposed Modification: January, 30 2023)
 
 ### H.1 Statement of Values
 
