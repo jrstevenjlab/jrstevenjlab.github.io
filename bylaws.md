@@ -134,3 +134,59 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 5. If a Collaboration Board member resigns in the middle of a term, then the Board operates with one fewer member throughout the remainder of that person's term. 
 6. If two or more Board members resign creating multiple vacancies, then the Spokesperson appoints interim board members to temporarily fill the empty seats. An election to fill out the remaining vacant terms is initiated for these seats within two weeks. 
 7. If a member of the Board serves for less than one year of the full two-year term, the partial term will not count toward the two-consecutive-term limit specified in the Management Plan.
+
+## H Community Agreement (Adopted February 19, 2024)
+
+### H.1 Statement of Values
+
+The GlueX Collaboration affirms that its success and relevance rely on a community in which all members are supported and empowered to contribute meaningfully to its scientific mission.  It is our responsibility to foster an environment that is welcoming to all and is free from prejudice, discrimination, and harassment.  Our work is guided by the following core principles:
+* Respect. Our actions and communications demonstrate the value we place on contributions and perspectives of all members of our community.
+* Accountability. We take responsibility for our individual and collective actions, and expect the same from others.
+* Collaboration. Our work as a group is greater than the sum of our expertise and experiences as individuals.
+* Inclusion. We welcome all who can contribute to our mission and seek to remove barriers for those from historically excluded groups.
+* Scientific integrity. We strive to accurately and ethically perform, represent, and disseminate our work as individuals and as a collaboration, from initial planning to final results and beyond.
+
+### H.2 Code of Conduct
+This Code of Conduct establishes standards and procedures for responding to behaviors that violate the Statement of Values. It is complementary to any community agreement established by Jefferson Lab, and pertains to all GlueX collaboration members.   Other people who interact with GlueX (e.g., non-collaboration-member students, colleagues from other JLab departments) are strongly encouraged to read and understand the Code of Conduct. 
+
+#### H.2.1 Standards
+The GlueX Collaboration prohibits behaviors that are counter to its Values or sustainable scientific progress.  These behaviors include, but are not limited to:
+
+* sexual, crude, derogatory jokes or speech
+* bullying, harassing, or intimidating speech or action
+* discriminatory or exclusionary speech or actions based on (e.g.) race, ethnicity, nationality or national origin, gender identity, sexual orientation, religion, age, family/marital status
+* professional and scientific misconduct, e.g., intentionally making false statements, falsifying data, not attributing or minimizing the contributions of others, or withholding information necessary for others to do their work, unauthorized publications
+* retaliatory actions against someone who has reported an incident
+
+The Collaboration affirms that such conduct has no place in a scientific setting, and will not be tolerated.
+
+#### H.2.2 Scope
+The Code of Conduct applies to interactions that are part of GlueX-related work.  This includes, but is not limited to:
+
+* interactions (formal or informal) on JLab property (e.g., experimental hall, counting house, CEBAF center)
+* electronic and written communication (e.g., e-mail, list-servs, Slack)
+* GlueX meetings (bi-weekly, working groups, collaboration meetings) and GlueX-sponsored social events, regardless of location (at JLab, off-site, or virtual)
+* GlueX-related work at home institutions
+* presentations or serving as a representative of GlueX (e.g., conferences, workshops, panels)
+* GlueX-related social media, or social media interactions in which the user claims affiliation with or representation of GlueX
+
+#### H.2.3 Implementation
+The collaboration is responsible for supporting and providing guidance to those that report incidents that violate the Code of Conduct (CoC).  In many cases, this support will come in the form of documenting the incident and connecting the reporter to resources that exist through the JLab Ethics Office or a similar office at their home institution.  The Diversity & Inclusion Committee (D&IC) and Diversity & Inclusion Officers (DIOs) maintain a list of these resources. Some incidents, however, may warrant intervention within GlueX.  The Collaboration has opportunities to intervene in ways that may prevent further offenses and promote a more inclusive culture.
+
+1. **Reporting.**  Intervention begins with a collaboration member filing an incident report, either using the [online reporting form](https://gluexweb.jlab.org/contact) or by contacting one of the GlueX DIOs directly.  A third party who observes behavior that violates the CoC is encouraged to file a report.  DIOs log reports and ask the reporter whether they are comfortable passing on to the next level.  Only current DIOs have access to incident logs.  The DIOs send a summary of reported incidents (number and types) with identifying details removed to the CB and JLab Ethics Office one week in advance of each GlueX Collaboration meeting. 
+2. **Responses.**  A reported incident that violates the CoC, and the appropriate response to it, will be determined by the DIOs as falling into one of the following five categories.
+
+    - Major offenses are those that place a colleague in danger, show willful intent to intimidate or harm, or include unwanted physical contact.  When a major offense is reported, the DIOs immediately inform the CB and JLab Ethics Officer, and urge the reporter to contact relevant entities at their institution if appropriate (e.g., university Title IX office).  
+    - Minor offenses are those which do not place colleagues in immediate danger and are immediately correctable (e.g., removing an offensive poster or ceasing use of offensive language). Offenses deemed minor are dealt with by the DIOs.  After obtaining consent from the incident reporter, one of the DIOs will contact the offending party to explain that an incident was reported that violated the CoC.  No investigation is performed, and no fault is assumed; the DIO merely informs the individual so that they can correct their behavior if necessary. A single minor offense could plausibly have been an accident, whereas a pattern of offenses is not (especially after a warning has been issued). 
+    - Repeat minor offenses. Minor incidents that form a pattern of behavior (i.e., multiple documented reports logged by the DIOs) will be recommended by the DIOs to the CB for action.  If appropriate, the CB will refer the reporter to the JLab Ethics Officer (or similar at an affiliate institution).  Otherwise, the CB will issue a written warning to the individual, listing possible interventions (see below) that will be issued should the behavior continue.  A copy of the written warning will also be sent to the JLab Ethics Officer.  
+    - Repeat minor offenses, post-warning.  If the pattern of behavior continues after the CB has issued a warning, the CB will issue the intervention(s) described in the warning letter.  The CB will do so in writing with copies sent to relevant parties (e.g., working group conveners, shift coordinators).
+    - Incidents of scientific misconduct will be referred to the Physics Analysis Coordinator.
+3. **Interventions.**  In cases of repeated offensive behavior, the CB will determine an intervention that precludes opportunities for the behavior to continue. Possible interventions include:
+    - temporary barring from shifts
+    - temporary barring from collaboration meetings, working groups
+    - temporary barring from presenting on behalf of GlueX at conferences
+    - temporary removal from GlueX mailing lists
+    - removal from leadership positions within the collaboration
+
+The duration of the intervention will be decided by the CB, and will generally be  between two months and one year. Note that major offenses carry interventions that are outside the scope of GlueX.
+
