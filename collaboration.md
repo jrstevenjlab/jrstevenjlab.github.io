@@ -65,7 +65,7 @@ title: Collaboration
 **Lamar University:** Philip Cole  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **MEPhI:** Sergei Somov  
-**Mount Allison Univeristy:** David Hornidge  
+**Mount Allison University:** David Hornidge  
 **Norfolk State University :** Carlos Salgado  
 **North Carolina A&T State:** Ashot Gasparian  
 **U. of North Carolina, Wilmington:** Liping Gan  
@@ -74,6 +74,7 @@ title: Collaboration
 **Tomsk State/Tomsk Polytechnic University:** Valery Lyubovitsky  
 **Union College:** Colin Gleason  
 **Virginia Tech:** Marie Boer  
+**Washington & Jefferson College:** Mike McCracken
 **William & Mary:** Justin Stevens  
 **Wuhan University:** Zhenyu Zhang  
 **Yerevan Physics Institute:** Hrachya Marukyan  
