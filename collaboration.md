@@ -59,7 +59,7 @@ title: Collaboration
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
-**National Research Centre Kurchatov Institute:** Ilya Larin  
+**National Research Centre Kurchatov Institute:** Victor Tarasov  
 **Jefferson Lab:** Eugene Chudakov  
 **Ruhr-Universität-Bochum:** James Ritman  
 **Lamar University:** Philip Cole  
