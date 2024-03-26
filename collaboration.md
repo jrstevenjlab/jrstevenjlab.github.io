@@ -74,7 +74,7 @@ title: Collaboration
 **Tomsk State/Tomsk Polytechnic University:** Valery Lyubovitsky  
 **Union College:** Colin Gleason  
 **Virginia Tech:** Marie Boer  
-**Washington & Jefferson College:** Mike McCracken
+**Washington & Jefferson College:** Mike McCracken  
 **William & Mary:** Justin Stevens  
 **Wuhan University:** Zhenyu Zhang  
 **Yerevan Physics Institute:** Hrachya Marukyan  
