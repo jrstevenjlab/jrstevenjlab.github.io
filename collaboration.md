@@ -52,7 +52,7 @@ title: Collaboration
 **Catholic University:** Greg Kalicy  
 **University of Connecticut:** Richard Jones  
 **Duke University:** Haiyan Gao  
-**Florida International University:** Werner Boeglin  
+**Florida International University:** Joerg Reinhold  
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
 **U. of Glasgow:** Peter Hurck  
