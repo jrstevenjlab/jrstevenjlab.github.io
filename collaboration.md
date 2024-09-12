@@ -21,7 +21,7 @@ title: Collaboration
 * Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to Susan Schadmand (susansch [at] jlab [dot] org) for dissemination.
 
 ## Topical Working Groups Conveners
-**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab) and Malte Albrecht (Jefferson Lab)  
+**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab) and Farah Afzal (Ruhr Universität Bochum)  
 **Beam Asymmetry:** Zisis Papandreou (University of Regina)  
 **Cross Section:** Justin Stevens (William & Mary) and Susan Schadmand (GSI)  
 **Di-lepton/Rare Processes:** Sean Dobbs (Florida State University)  
