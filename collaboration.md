@@ -50,7 +50,7 @@ title: Collaboration
 **University of Bonn:** Annika Thiel  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
-**China University of Geosciences:** Xiaolin Kang
+**China University of Geosciences:** Xiaolin Kang  
 **University of Connecticut:** Richard Jones  
 **Duke University:** Haiyan Gao  
 **Florida International University:** Joerg Reinhold  
