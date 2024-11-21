@@ -4,10 +4,12 @@ title: Bylaws
 ---
 # Bylaws of the GlueX Collaboration
 
-## A Membership (Adopted: November 2, 2009)
+## [A Membership (Adopted: November 2, 2009)](#A)
+{: #A }
 Membership to the GlueX Collaboration is granted to individual institutional groups by the Collaboration. Each such group should appoint a group leader who is responsible for interacting with the GlueX management throughout the membership process. The group leader then becomes the point of contact for the collaboration on all issues regarding the contributions of the group to the experiment and is responsible for notifying the GlueX management of changes in the institutional group’s membership (e.g., the addition of postdocs or graduate students). The group has the right at any stage to appoint a new or replacement group leader who is then obligated to ensure that the group’s commitments to the experiment are fulﬁlled.
 
-### A.1 Election of Members
+### [A.1 Election of Members](#A1)
+{: #A1 }
 1. The group leader will work initially with the Spokesperson and Hall D Leader to identify areas where the institutional group may contribute.
 2. To join the collaboration, the group leader should submit a Letter of Intent (LoI) to the Spokesperson. The letter is expected to outline 
     * the physics interests of the group, 
@@ -18,7 +20,8 @@ Membership to the GlueX Collaboration is granted to individual institutional gro
 5. The Collaboration votes on the membership of the institutional group. Two-thirds vote is required for approval. 
 6. The group becomes a member. 
 
-### A.2 Removal of Members
+### [A.2 Removal of Members](#A2)
+{: #A2 }
 There are two ways that an institutional group can be removed from the Collaboration:
 1. The group leader notiﬁes the Spokesperson of his or her group’s intent to withdraw from the Collaboration. 
 2. An institutional group can be removed by a vote of the Collaboration if the group is determined (i) to have failed to fulﬁll their institutional obligations to the experiment or (ii) to have been inactive for a period of at least two years. 
@@ -28,7 +31,8 @@ There are two ways that an institutional group can be removed from the Collabora
     * The group leader has a minimum of sixty days to respond to the recommendation of the Collaboration Board before the issue moves to the Collaboration for a vote. During this time the Collaboration Board may withdraw its recommendation. 
     * The recommendation is voted on by the Collaboration. Two-thirds vote is required to remove the group from the Collaboration. 
 
-## B Voting (Adopted: November 2, 2009)
+## [B Voting (Adopted: November 2, 2009)](#B)
+{: #B }
 All issues requiring a vote of the full Collaboration must adhere to the following guidelines.
 1. Ballots shall be distributed and submitted electronically in a way that allows anonymous access to the ballot by all collaboration members regardless of geographical location. 
 2. Every person who is a member of the Collaboration at the time the ballot is opened is eligible to participate in the election. 
@@ -37,21 +41,25 @@ All issues requiring a vote of the full Collaboration must adhere to the followi
 5. No election result is valid unless a quorum of the Collaboration participates in the election. An eligible voter may participate in an election but not vote by using the electronic ballot to register his or her abstention. 
 6. A quorum is deﬁned as more than 50% of eligible voters. 
 
-## C Modiﬁcation of Bylaws (Adopted: November 2, 2009)
+## [C Modiﬁcation of Bylaws](#C) (Adopted: November 2, 2009)
+{: #C }
 The following procedure shall be used to modify or amend these bylaws.
 1. Any collaboration member wishing to initiate a modiﬁcation of or amendment to the bylaws should notify the chair of the Collaboration Board of his or her intent. 
 2. The Collaboration Board will discuss the request and, if it determines that modiﬁcations are necessary, draft a revision of the bylaws. 
 3. Revisions to the bylaws must be approved by a two-thirds vote of the Collaboration. 
 
-## D Acquiring Data (Adopted: November 2, 2009; Extensively Revised:  July 18, 2018)
+## [D Acquiring Data](#D) (Adopted: November 2, 2009; Extensively Revised:  July 18, 2018)
+{: #D }
 While the initial period of beam in Hall D will be dedicated to commissioning and running with the the base Hall D equipment, it is expected that additional experimental proposals for Hall D beyond the primary GlueX physics program will be made. Additional proposed experiments in Hall D which use any portion of the GlueX detector equipment may seek the endorsement of the GlueX Collaboration.
-### D.1 GlueX Collaboration Endorsement
+### [D.1 GlueX Collaboration Endorsement](#D1)
+{: #D1 }
 1. GlueX-endorsed experiments are recognized as distinct experimental directions being pursued under the organization of the GlueX Collaboration. 
 2. The endorsement of the Collaboration implies a commitment of the entire Collaboration to operate detector equipment, staff shifts, and calibrate and process the data collected.
 3. All proponents of such proposed experiments must be members of the GlueX Collaboration, or have a plan approved by the EG and CB for joining the Collaboration and participating in ongoing GlueX experiments.
 4. All Hall D experiments which were approved by the PAC before 2018 are considered to have the endorsement of the GlueX Collaboration.
 
-### D.2 Experimental Proposal Endorsement Process
+### [D.2 Experimental Proposal Endorsement Process](#D2) 
+{: #D2 }
 1. The experimental proposal endorsement process should begin with a discussion between the GlueX Spokesperson, Hall D leader, and proposal proponents, and may include a presentation to the Collaboration.
 2. The proponents are expected to prepare a document that describes the necessary modiﬁcations to conﬁguration of equipment, needed running time, and expected physics impact. This document is referred to as "the proposal" in the bylaws that follow. The responsibilities of member groups for detector operation and calibration should be clearly specified. This information must be presented to the Collaboration, either at a Collaboration Meeting or at a meeting of the Physics Working Group.
 3. The evaluation of the technical feasibility and physics merit of the proposed experiments will be coordinated by the Collaboration Board, in consultation with the Hall D Leader. The CB will be responsible for designating at least one and no more than three internal reviewers for each proposal.
@@ -61,15 +69,17 @@ While the initial period of beam in Hall D will be dedicated to commissioning an
 7. In exceptional cases, a proposal may be put up for a vote at any time by the GlueX Spokesperson and Hall D Leader.
 8. If a proposal is not put up for a vote or does not pass the vote for endorsement, the proponents may revise and resubmit their proposal for consideration.
 
-### D.3 Access to Data
+### [D.3 Access to Data](#D3)
+{: #D3 }
 1. Data taken during any run period or GlueX detector conﬁguration of a GlueX-endorsed experiment may be analyzed by any member of the GlueX Collaboration. 
 2. Members of the Collaboration shall inform the Physics Analysis Coordinator of their intent to analyze data in order to maximize eﬃciency. 
 3. GlueX welcomes discussion with non-member theorists. Non-member theorists may be given access to internal GlueX data only after approval of the Physics Analysis Coordinator in consultation with the Collaboration Board. GlueX data may only be published or shown publicly in accordance with GlueX bylaws.
 
-## E Shift-Taking (Adopted: July 8, 2014; Revised April 15, 2019)
+## [E Shift-Taking](#E) (Adopted: July 8, 2014; Revised April 15, 2019)
+{: #E }
 
-### E.1 General Policies
-
+### [E.1 General Policies](#E1)
+{: #E1 }
 1. GlueX running periods are supervised by a Run Coordinator (RC) who is responsible for day-to- 
 day and week-to-week operations. An RC serves for at least one week at a time. 
 2. GlueX shifts are manned by two people at all times, one shift Leader and one shift Worker. Leader 
@@ -80,15 +90,15 @@ and 20:00. In the future, it might be desirable to assign different weights to t
 5. This general policy is subject to change for engineering runs. 
 6. Collaboration membership and authorship issues are addressed in the corresponding by-laws on membership and authorship.
 
-### E.2 Shift Taker’s Qualifications and Conduct of Operations
-
+### [E.2 Shift Taker’s Qualifications and Conduct of Operations](#E2)
+{: #E2 }
 1. All shift takers must meet certain criteria itemized here. Prior to taking his or her first-ever scheduled shift, a person must be an observer on at least one shift in order to become familiar with procedures and (typically) to finish reading the required documents listed in the COO. In addition, anyone participating in data taking with GlueX must have a level of safety and radiation training described in the GlueX "Conduct of Operations" (COO) document. It provides an authoritative discussion of shift operations, including the duties and responsibilities of the shift Leader and the shift Worker. 
 2. "Leaders": The list of expert shift takers who can act as shift leaders is determined by the Physics Division Liaison (PDL) in consultation with the Hall D Collaboration Executive Group, which is responsible for the safe and effective operation of the system. Shift Leaders must be GlueX Collaboration members. Leader status implies experience in running GlueX shifts, not necessarily expert knowledge of hardware and software components of the system. Oral communication skills that enable effective communication with the accelerator staff are required for shift leaders. The Physics Division Liaison (PDL) must be satisfied that any given shift leading expert has adequate language skills. 
 3. "Workers": All members of the GlueX Collaboration are eligible for worker shifts. Non-members, including new graduate students, may be assigned shifts by the institutional contact person supervising the filling of the shift schedule. By assigning shifts to non-members, an institution's contact person is certifying that the persons so assigned will have met the Worker shift taker's requirements by the time the shift starts. 
 4. The PDL has the authority to reject a person for a shift if he or she thinks that the person is unqualified. The relevant institution then has responsibility for finding a suitable replacement. 
 
-### E.3 Shift Scheduling and Shift Counting
-
+### [E.3 Shift Scheduling and Shift Counting](#E3)
+{: #E3 }
 1. The collaboration Shift Scheduler will revise the membership list of the collaboration maintained 
 by the Collaboration Board (CB) at each collaboration meeting. 
 2. Shifts will be assigned in blocks to all member institutions in proportion to their number of 
@@ -100,10 +110,10 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 7. If a shift goes unfilled, either by no-show or no-qualify, the incident will be brought to the attention of the Collaboration Board for possible action. 
 8. Under exceptional circumstances, the shift scheduling and shift counting for an institution will be revised by Hall D Collaboration Executive Group. 
 
-## F Publications (Adopted August 10, 2015; revised July 18, 2018)
-
-### F.1 Review Process and Collaboration Approval 
-
+## [F Publications](#F) (Adopted August 10, 2015; revised July 18, 2018)
+{: #F }
+### [F.1 Review Process and Collaboration Approval](#F1)
+{: #F1 }
 1. Any paper that reports results based on Hall-D GlueX data requires the approval of the GlueX Collaboration before publication. 
 2. The proponents of a paper will prepare a technical note of the analysis and a draft of the paper that contains all proposed figures, tables, and physics results. These shall be submitted to the Physics Analysis Coordinator with a request for review and a proposal of the target journal. 
 3. The Physics Analysis Coordinator will appoint a committee of three Collaboration members (the "Review Committee") not directly involved in the analysis that will review the submitted documents and assist the proponents in the approval process. A deadline shall be specified for the review process. 
@@ -115,8 +125,8 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 9. Approval for publication will be granted by the Physics Analysis Coordinator once the proponents of the paper and the Review Committee have addressed all comments from the Collaboration members and the final author list of the paper has been made available to the GlueX Collaboration. At the discretion of the Physics Analysis Coordinator, the paper will be subject to an additional Collaboration review. 
 10. If at any time during the review process a dispute arises, the Collaboration Board will make a final decision on how to proceed with the publication. 
 
-### F.2 Authorship 
-
+### [F.2 Authorship](#F2)
+{: #F2 }
 1. All current GlueX Collaboration members are eligible for co-authorship. A new member is eligible after a probationary period that is decided by the institutional group leader but expected to be six months. In the case of a new group, the duration of the probationary period is decided by the Collaboration Board. During this time, commitment to GlueX must be demonstrated. 
 2. Members who leave the GlueX Collaboration will remain eligible for authorship on GlueX papers for one year following their departure. 
 3. After one year following the departure of a Collaboration member, the leader of his or her former institutional group shall decide whether the individual will be eligible for co-authorship and communicate the name to the Collaboration Board, which reserves the right for a final review. 
@@ -125,8 +135,8 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 6. Any late additions to or removals from the author list must be approved by the Collaboration Board and communicated to the Collaboration. 
 7. In case of disputes, the GlueX Collaboration Board will make final decisions on authorship. 
 
-## G Officeholder Succession Rules (Adopted June 19, 2020)
-
+## [G Officeholder Succession Rules](#G) (Adopted June 19, 2020)
+{: #G }
 1. The term of the Spokesperson shall begin and end on September 1, following elections during or after the Spring Collaboration meeting. 
 2. If the Spokesperson resigns in the middle of a term, the Deputy Spokesperson becomes interim spokesperson, until a new election can be organized by the Collaboration Board. 
 3. If the Deputy Spokesperson resigns in the middle of a term, the Spokesperson initiates a search for a new deputy in accordance with the Management Plan. 
@@ -135,10 +145,10 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 6. If two or more Board members resign creating multiple vacancies, then the Spokesperson appoints interim board members to temporarily fill the empty seats. An election to fill out the remaining vacant terms is initiated for these seats within two weeks. 
 7. If a member of the Board serves for less than one year of the full two-year term, the partial term will not count toward the two-consecutive-term limit specified in the Management Plan.
 
-## H Community Agreement (Adopted February 19, 2024)
-
-### H.1 Statement of Values
-
+## [H Community Agreement](#H) (Adopted February 19, 2024)
+{: #H }
+### [H.1 Statement of Values](#H1)
+{: #H1 }
 The GlueX Collaboration affirms that its success and relevance rely on a community in which all members are supported and empowered to contribute meaningfully to its scientific mission.  It is our responsibility to foster an environment that is welcoming to all and is free from prejudice, discrimination, and harassment.  Our work is guided by the following core principles:
 * Respect. Our actions and communications demonstrate the value we place on contributions and perspectives of all members of our community.
 * Accountability. We take responsibility for our individual and collective actions, and expect the same from others.
@@ -146,9 +156,9 @@ The GlueX Collaboration affirms that its success and relevance rely on a communi
 * Inclusion. We welcome all who can contribute to our mission and seek to remove barriers for those from historically excluded groups.
 * Scientific integrity. We strive to accurately and ethically perform, represent, and disseminate our work as individuals and as a collaboration, from initial planning to final results and beyond.
 
-### H.2 Code of Conduct
+### [H.2 Code of Conduct](#H2)
 This Code of Conduct establishes standards and procedures for responding to behaviors that violate the Statement of Values. It is complementary to any community agreement established by Jefferson Lab, and pertains to all GlueX collaboration members.   Other people who interact with GlueX (e.g., non-collaboration-member students, colleagues from other JLab departments) are strongly encouraged to read and understand the Code of Conduct. 
-
+{: #H2 }
 #### H.2.1 Standards
 The GlueX Collaboration prohibits behaviors that are counter to its Values or sustainable scientific progress.  These behaviors include, but are not limited to:
 
