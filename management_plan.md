@@ -7,22 +7,22 @@ Adopted: January 29, 2003; Revised: July 7, 2023
 
 The GlueX Collaboration, or simply “the Collaboration” in the context of this document, is a group of scientists who are interested in pursuing a diverse program of physics using photon beams in the Hall D facility at Jefferson Lab (JLab). The governance of the Collaboration is laid down in the Management Plan (MP) and Bylaws.
 
-# [2 The GlueX Collaboration membership](#2)
-{: #2 }
+# [2 The GlueX Collaboration membership](#Label2)
+{: #Label2 }
 The GlueX Collaboration membership consists of institutional groups that have submitted a Letter of Intent (LoI) specifying the expected contributions within the scientific and/or technical objectives of the GlueX Collaboration. Such contributions may be defined as any component of hardware, software, or any aspect related to the scientific basis of the experiment, and which the collaboration deems important to the pursuit of its objectives.
 
 The list of individual researchers within a group brought forward for membership is the responsibility of the institutional group leader. The list, drawn in good faith by the group leader, is a commitment by the individuals named to fulfill the obligations outlined in the LoI and to be active members of the collaboration in all its aspects.
 
 Membership entails specific contributions to the GlueX experiment. As such, a failure by any group to meet its LoI commitments constitutes grounds for removal of the group from the GlueX Collaboration membership list. The rules governing such matters will be defined in the appropriate sections of the MP and by the bylaws developed in conjunction with this MP. All members in good standing will enjoy equal rights, opportunities for advancement, voting and decision-making rights.
 
-# [3 The GlueX organizational structure](#3)
-{: #3 }
-## [3.1 The GlueX Collaboration membership](#31)
-{: #31 }
+# [3 The GlueX organizational structure](#Label3)
+{: #Label3 }
+## [3.1 The GlueX Collaboration membership](#Lable31)
+{: #Label31 }
 Collaboration membership is the source of all decision-making through elected representation, via the general voting procedures on the GlueX governance. Even though the Collaboration management is a layered structure for organizational and functional efficiency, Collaboration members may bring concerns, ideas, and suggestions to any group, team, or representative within the collaboration.
 
-## [3.2 The Executive Group](#32)
-{: #32 }
+## [3.2 The Executive Group](#Label32)
+{: #Label32 }
 The Executive Group (EG) consists of three members: the Spokesperson, the Deputy Spokesperson, and the Hall D Leader.
 
 ### 3.2.1 The Spokesperson
@@ -44,8 +44,8 @@ The Hall D Leader is a JLab staff physicist appointed by JLab management with in
 
 The Hall D Leader will be the official representative of JLab management within the collaboration. The coordination of all elements necessary to deliver a high quality electron beam to the tagging facility is primarily the responsibility of the Hall D Leader. All safety related administrative and engineering procedures and controls are also within the Hall D Leader’s direct responsibility and authority. In addition, the Hall D leader will oversee any detector design, construction and installation.
 
-## [3.3 The Physics Analysis Coordinator](#33)
-{: #33 }
+## [3.3 The Physics Analysis Coordinator](#Label33)
+{: #Label33 }
 The Physics Analysis Coordinator is an elected position with the responsibility for overseeing physics analyses and coordinating the publication and presentation of physics results in a timely and responsible fashion. The Physics Analysis Coordinator is the chair of the Physics Working Group, and will work with the Spokesperson to coordinate and petition for invited and contributed talks.
 
 The term for Physics Analysis Coordinator is two years and offset by a year from the Spokesperson’s term. The position is renewable without any restriction on the number of consecutive terms served. Upon the expiration of the stated term, the CB will call for nominations within the collaboration. The CB will act as an initial search committee to select no more than two candidates from among the nominees. The CB-endorsed nominee(s) will be presented to the Collaboration membership for final vote.
@@ -53,8 +53,8 @@ The term for Physics Analysis Coordinator is two years and offset by a year from
 ## The Working Groups
 The collaboration will maintain a list of official working groups. The working group (WG) concept encompasses groups of Collaboration members working together on specific aspects of the experiment based on expertise, interest, and individual obligations. It foresees an open architecture where members can contribute to more than one WG and where WGs may be added or dissolved as the need arises.
  
-## [3.5 The Collaboration Board](#35)
-{: #35 }
+## [3.5 The Collaboration Board](#Label35)
+{: #Label35 }
 ### 3.5.1 The structure of the CB
 The Collaboration Board is the elected representative body of the collaboration. Its membership will consist of six voting members called CB Officers. The CB Officers will be elected directly by the Collaboration membership, and they will choose their own Chairperson. Members of the Executive Group are ineligible for CB membership, but may attend CB meetings upon invitation. No more than one voting member per institution or institutional group may be elected to serve on the CB. The CB membership tenure will be two years, with no more than two terms served consecutively by any member. In the event that a current CB member changes institutions, the CB member will continue to serve on the CB for the remaining term as originally elected.
 
@@ -73,8 +73,8 @@ The CB Chair, like the Spokesperson, is a position of high responsibility and se
 ### General duties of CB Officers
 The duties of the other five CB Officers reflect the mandate of the CB, for example, dealing with membership, nominations and publication issues. If the need arises, one or more Officers may request the formation of temporary subcommittees to assist in specific tasks. Such subcommittees are advisory to the CB and are to be recruited among Collaboration members. If necessary, non-Collaboration members may be invited to participate due to expertise and specific skills.
 
-## [3.6 Diversity and Inclusion Group](#36)
-{: #36 }
+## [3.6 Diversity and Inclusion Group](#Label36)
+{: #Label36 }
 The GlueX Collaboration affirms that diversity of experience, culture, and perspective is essential to achieving its objectives in producing and sharing relevant research that furthers our understanding of the physical world. Thus, the Collaboration is committed to maintaining an inclusive and equitable working environment for all members. The purpose of the Diversity and Inclusion Group (in this section, “the Group”) is to foster such an atmosphere of inclusivity and equity among all Collaboration members. There are two roles within the Diversity and Inclusion Group: Diversity and Inclusion Officers (in this section, “Officers”) and a Diversity and Inclusion Committee (in this section, “the Committee”).
 
 ### 3.6.1 Diversity and Inclusion Officers
@@ -87,12 +87,12 @@ The Diversity and Inclusion Committee will solicit nominees for Diversity and In
 
 The Committee shall consist of the two Diversity and Inclusion Officers, as well as members selected by the CB. All Collaboration members in good standing are eligible to serve on the Committee.
 
-# [4 Changes to the MP](#4)
-{: #4 }
+# [4 Changes to the MP](#Label4)
+{: #Label4 }
 The structure of the MP can be modified by the two-thirds majority vote rule in both the CB and the GlueX general memberships.
 
-# [5 Summary](#5)
-{: #5 }
+# [5 Summary](#Label5)
+{: #Label5 }
 Due to the unique character of GlueX as an experiment, but with a clear facility component, existing models of collaboration management at JLab could not be easily adopted and a new structure was developed. This management plan creates the minimum structure necessary to accomplish the ultimate objectives of the collaboration. It preserves flexibility, while, at the same time, creates a structure which is well-defined and maximizes the individual talent and contributions of its membership.
 
 ## Original Member Institutions
