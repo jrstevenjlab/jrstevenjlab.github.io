@@ -1,7 +1,7 @@
 - name: 2024pi1ul
   title: Upper Limit on the Photoproduction Cross Section of the Spin-Exotic $\pi_1(1600)$
   abstract: The spin-exotic hybrid meson $\pi_{1}(1600)$ is predicted to have a large decay rate to the $\omega\pi\pi$ final state. Using 76.6 pb$^{-1}$ of data collected with the GlueX detector, we measure the cross sections for the reactions $\gamma p \to \omega \pi^+ \pi^- p$, $\gamma p \to \omega \pi^0 \pi^0 p$, and $\gamma p\to\omega\pi^-\pi^0\Delta^{++}$ in the range $E_\gamma = 8 - 10$ GeV. Using isospin conservation, we set the first upper limits on the photoproduction cross sections of the $\pi^{0}_{1}(1600)$ and $\pi^{-}_{1}(1600)$. We combine these limits with lattice calculations of decay widths and find that photoproduction of $\eta'\pi$ is the most sensitive two-body system to search for the $\pi_1(1600)$. 
-  citation: Phys.Rev.Lett. 133 (2024) 26, 261903
+  citation: Phys. Rev. Lett. 133 (2024) 26, 261903
   doi: 10.1103/PhysRevLett.133.261903
   arXiv: 2407.03316
   hepdata: 153410
