@@ -7,13 +7,13 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx5576_rho770_sdme/"
-inputLatex = inputDir + "rho_SDME_paper.tex"
-papername = "2023rhoSDME"
-papercitation = "  citation: Phys.Rev.C 108 (2023) 5, 055204"
-doi = "  doi: 10.1103/PhysRevC.108.055204"
-arXiv = "  arXiv: 2305.09047"
-hepdata = "  hepdata: 140672"
+inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx5941_pi1_ul/"
+inputLatex = inputDir + "Pi1Limit.tex"
+papername = "2024pi1ul"
+papercitation = "  citation: Phys.Rev.Lett. 133 (2024) 26, 261903" #108 (2023) 5, 055204"
+doi = "  doi: 10.1103/PhysRevLett.133.261903"
+arXiv = "  arXiv: 2407.03316"
+hepdata = "  hepdata: 153410"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -142,7 +142,7 @@ with open(inputLatex) as fp:
                             caption += line
                         
                     
-                if 'includegraphics' in line:
+                if 'includegraphics' or 'overpic' in line:
                     #print(line)
                     extensions = [".pdf",".png",".jpg"]
                     if len(figurelabels) == 0:
