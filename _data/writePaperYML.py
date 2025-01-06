@@ -10,7 +10,7 @@ import shutil
 inputDir = "/Users/jrsteven/Box Sync/GlueX/gluex_documents/gluex_papers/gx5941_pi1_ul/"
 inputLatex = inputDir + "Pi1Limit.tex"
 papername = "2024pi1ul"
-papercitation = "  citation: Phys.Rev.Lett. 133 (2024) 26, 261903" #108 (2023) 5, 055204"
+papercitation = "  citation: Phys.Rev.Lett. 133 (2024) 26, 261903"
 doi = "  doi: 10.1103/PhysRevLett.133.261903"
 arXiv = "  arXiv: 2407.03316"
 hepdata = "  hepdata: 153410"

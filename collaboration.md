@@ -8,11 +8,11 @@ title: Collaboration
 
 **Collaboration Board:**
 * **Chair:** Naomi Jarvis, Carnegie Mellon University (’22-’25)
+* Edmundo Barriga, Florida State University (’25-’26)
 * Mark Dalton, Jefferson Lab (’22-’25)
-* Peter Hurck, University of Glasgow (’23-’24)
+* Colin Gleason, Union College (’25-’26)
+* Peter Hurck, University of Glasgow (’23-’26)
 * Cristiano Fanelli, William & Mary (’24-’25)
-* Susan Schadmand, GSI (’23-’24)
-* Jon Zarling, University of Regina (’21-’24)
 
 **Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-23)  
 **Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-23)  
