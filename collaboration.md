@@ -21,7 +21,7 @@ title: Collaboration
 * Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to Susan Schadmand (susansch [at] jlab [dot] org) for dissemination.
 
 ## Topical Working Groups Conveners
-**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab) and Farah Afzal (University of Bonn)  
+**Amplitude Analysis:** Alexander Austregesilo (Jefferson Lab) and Farah Afzal (Ruhr-Universität-Bochum)  
 **Beam Asymmetry:** Zisis Papandreou (University of Regina)  
 **Cross Section:** Justin Stevens (William & Mary) and Susan Schadmand (GSI)  
 **Di-lepton/Rare Processes:** Sean Dobbs (Florida State University)  
@@ -46,8 +46,8 @@ title: Collaboration
 ##  Collaborating Institutions and Institutional Contacts
 
 **Arizona State University:** Michael Dugger  
-**University of Athens:** Christine Kourkoumelis  
-**University of Bonn:** Annika Thiel  
+**University of Athens:** Christine Kourkoumelis   
+**Ruhr-Universität-Bochum:** James Ritman  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
 **China University of Geosciences:** Xiaolin Kang  
@@ -56,13 +56,13 @@ title: Collaboration
 **Florida International University:** Joerg Reinhold  
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
+**Justus-Liebig-Universität Gießen:** Annika Thiel  
 **U. of Glasgow:** Peter Hurck  
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
 **National Research Centre Kurchatov Institute:** Victor Tarasov  
 **Jefferson Lab:** Eugene Chudakov  
-**Ruhr-Universität-Bochum:** James Ritman  
 **Lamar University:** Philip Cole  
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **MEPhI:** Sergei Somov  
