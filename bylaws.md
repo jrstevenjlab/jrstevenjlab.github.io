@@ -55,7 +55,7 @@ While the initial period of beam in Hall D will be dedicated to commissioning an
 {: #D1 }
 1. GlueX-endorsed experiments are recognized as distinct experimental directions being pursued under the organization of the GlueX Collaboration. 
 2. The endorsement of the Collaboration implies a commitment of the entire Collaboration to operate detector equipment, staff shifts, and calibrate and process the data collected.
-3. All proponents of such proposed experiments must be members of the GlueX Collaboration, or have a plan approved by the EG and CB for joining the Collaboration and participating in ongoing GlueX experiments.
+3. All proponents of such proposed experiments must be members of the GlueX Collaboration, or have a plan approved by the Executive Group (EG) and Collaboration Board (CB) for joining the Collaboration and participating in ongoing GlueX experiments.
 4. All Hall D experiments which were approved by the PAC before 2018 are considered to have the endorsement of the GlueX Collaboration.
 
 ### [D.2 Experimental Proposal Endorsement Process](#D2) 
@@ -93,7 +93,7 @@ and 20:00. In the future, it might be desirable to assign different weights to t
 ### [E.2 Shift Taker’s Qualifications and Conduct of Operations](#E2)
 {: #E2 }
 1. All shift takers must meet certain criteria itemized here. Prior to taking his or her first-ever scheduled shift, a person must be an observer on at least one shift in order to become familiar with procedures and (typically) to finish reading the required documents listed in the COO. In addition, anyone participating in data taking with GlueX must have a level of safety and radiation training described in the GlueX "Conduct of Operations" (COO) document. It provides an authoritative discussion of shift operations, including the duties and responsibilities of the shift Leader and the shift Worker. 
-2. "Leaders": The list of expert shift takers who can act as shift leaders is determined by the Physics Division Liaison (PDL) in consultation with the Hall D Collaboration Executive Group, which is responsible for the safe and effective operation of the system. Shift Leaders must be GlueX Collaboration members. Leader status implies experience in running GlueX shifts, not necessarily expert knowledge of hardware and software components of the system. Oral communication skills that enable effective communication with the accelerator staff are required for shift leaders. The Physics Division Liaison (PDL) must be satisfied that any given shift leading expert has adequate language skills. 
+2. "Leaders": The list of expert shift takers who can act as shift leaders is determined by the Physics Division Liaison (PDL) in consultation with the Executive Group, which is responsible for the safe and effective operation of the system. Shift Leaders must be GlueX Collaboration members. Leader status implies experience in running GlueX shifts, not necessarily expert knowledge of hardware and software components of the system. Oral communication skills that enable effective communication with the accelerator staff are required for shift leaders. The Physics Division Liaison (PDL) must be satisfied that any given shift leading expert has adequate language skills. 
 3. "Workers": All members of the GlueX Collaboration are eligible for worker shifts. Non-members, including new graduate students, may be assigned shifts by the institutional contact person supervising the filling of the shift schedule. By assigning shifts to non-members, an institution's contact person is certifying that the persons so assigned will have met the Worker shift taker's requirements by the time the shift starts. 
 4. The PDL has the authority to reject a person for a shift if he or she thinks that the person is unqualified. The relevant institution then has responsibility for finding a suitable replacement. 
 
@@ -108,7 +108,7 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 5. For any individual collaborator there can be no less than 12 hours between the end of one shift and the beginning of the next. Exceptions may be granted by the PDL.
 6. The activity of the RC "counts" toward the shift responsibilities for the RC's institution at the rate of one shift per day. 
 7. If a shift goes unfilled, either by no-show or no-qualify, the incident will be brought to the attention of the Collaboration Board for possible action. 
-8. Under exceptional circumstances, the shift scheduling and shift counting for an institution will be revised by Hall D Collaboration Executive Group. 
+8. Under exceptional circumstances, the shift scheduling and shift counting for an institution will be revised by the Executive Group. 
 
 ## [F Publications](#F) (Adopted August 10, 2015; revised July 18, 2018)
 {: #F }
