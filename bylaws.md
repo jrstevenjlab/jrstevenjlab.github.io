@@ -198,5 +198,5 @@ The collaboration is responsible for supporting and providing guidance to those 
     - temporary removal from GlueX mailing lists
     - removal from leadership positions within the collaboration
 
-The duration of the intervention will be decided by the CB, and will generally be  between two months and one year. Note that major offenses carry interventions that are outside the scope of GlueX.
+The duration of the intervention will be decided by the CB, and will generally be between two months and one year. Note that major offenses carry interventions that are outside the scope of GlueX.
 
