@@ -1,7 +1,7 @@
 - name: 2024deltaSDME
   title: Measurement of Spin-Density Matrix Elements in $\Delta^{++}(1232)$ photoproduction
   abstract: We measure the spin-density matrix elements (SDMEs) of the $\Delta^{++}(1232)$ in the photoproduction reaction $\gamma p \to \pi^-\Delta^{++}(1232)$ with the GlueX experiment in Hall D at Jefferson Lab. The measurement uses a linearly-polarized photon beam with energies from $8.2$ to $8.8$ GeV and the statistical precision of the SDMEs exceeds the previous measurement by three orders of magnitude for the momentum transfer squared region below $1.4$ GeV$^2$. The data are sensitive to the previously undetermined relative sign between couplings in existing Regge-exchange models. Linear combinations of the extracted SDMEs allow for a decomposition into natural and unnatural-exchange amplitudes. We find that the unnatural exchange plays an important role in the low momentum transfer region.    
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   arXiv: 2406.12829
   hepdata: 153414
@@ -10,91 +10,91 @@
 
 - figure: 1a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured Dalitz plot of the reaction $\gamma p \to \pi^-\pi^+p$. Vertical bands show contributions from the $\pi^-\pi^+$ meson system \textit{e.g.} $\rho(770)$, while horizontal bands show the $\Delta^{++}(1232)$ and excited baryon states that decay to $\pi^+p$. On the diagonal, baryon contributions from $N^*/\Delta^{0*}$ are visible in the $\pi^-p$ system. The dashed black and red lines show the chosen selections on the $\pi^-\pi^+$ and $\pi^+p$ masses, respectively.
 
 - figure: 2a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2b
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2c
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2d
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2e
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2f
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2g
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2h
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 2i
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Measured distributions (black points) compared to simulated phase-space distributions weighted by the detector acceptance and the fit results (green shaded area). The accidental time background distribution is depicted as the red shaded area. The blue, yellow, and black lines show the $\pi^-\Delta^{++}$, $(\pi^-\pi^+) p$ and phase space contributions, respectively, in the fit model given by Eq. 1. The left and right columns show results for two representative $t$ bins. The phase space contribution is very small.     
 
 - figure: 3a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Spin-density matrix elements of $\Delta^{++}(1232)$ in the Gottfried-Jackson frame as a function of the momentum transfer squared $-t$ from the beam photon to the $\pi^-$. The vertical error bars consist of the statistical and systematic uncertainties added in quadrature. Our data (blue circles) are compared to the previous Ballam et al. measurement (green squares) [10] and to predictions of the JPAC pole model (solid black line) [5] and the Yu and Kong model (dashed red line) [6]. 
 
 - figure: 4a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Linear combinations of SDMEs (see Eq. 15) that represent natural (N, top row) and unnatural (U, bottom row) exchange components. Our data (blue circles) are compared to the previous Ballam et al. measurement (green squares) [10] and to predictions of the JPAC pole model (solid black line) [5] and the Yu and Kong model (dashed red line) [6].
 
 - figure: 5a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Beam asymmetry extracted from the SDMEs using Eq. 16 (blue circles). The GlueX data are compared to the previous Ballam et al. data (green squares) [10] and to predictions of the JPAC pole model (solid black line) [5] and the Yu and Kong model (dashed red line) [6].
 
 - figure: 6a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Spin-density matrix elements of $\Delta^{++}(1232)$ in the helicity frame. They are shown as a function of the momentum transfer squared $-t$ from the incoming photon to the $\pi^-$. The vertical error bars consist of only the statistical uncertainties. Our data (blue circles) are compared to predictions of the JPAC pole model (solid black line) [5]. 
 
 - figure: 7a
   papername: 2024deltaSDME
-  citation: Phys.Lett.B 863 (2025) 139368
+  citation: Phys. Lett. B 863 (2025) 139368
   doi: 10.1016/j.physletb.2025.139368
   caption: Beam asymmetry extracted from the SDMEs using Eq. 16 (blue circles), and our previously published results based on the yield-asymmetry method (black circles) [9]. Note, The latter data points are shown at the $t$-bin centers, while for the present results the mean value of the $t$ distribution for each $t$-bin is used. 
 
