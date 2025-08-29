@@ -7,13 +7,13 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6537_a2(1320)_xsec/"
-inputLatex = inputDir + "main.tex"
-papername = "2025a2xsec"
-papercitation = "  citation: Phys.Rev. C112 (2025) 1, 015204"
-doi = "  doi: 10.1103/jfzb-rfl4"
-arXiv = "  arXiv: 2501.03091"
-hepdata = "  hepdata: 156806"
+inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6588_phi_sdme/"
+inputLatex = inputDir + "kskl_prc.tex"
+papername = "2025phi"
+papercitation = "  citation: Phys.Rev. C112 (2025) 2, 025203"
+doi = "  doi: 10.1103/2tdc-5by6"
+arXiv = "  arXiv: 2504.01194"
+hepdata = "  hepdata: 160000"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
@@ -208,7 +208,7 @@ with open(inputLatex) as fp:
                 
                 if '.pdf' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
-                    os.system("sips -s format png -Z %d %s/%s.pdf --out %s/%s.png" % (figWidth,figDir,figurelabel,figDir,figurelabel))
+                    os.system("sips -s format png -Z %d %s/%s.pdf --out %s/%s.png --rotate 0" % (figWidth,figDir,figurelabel,figDir,figurelabel))
                 if '.png' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".png")
                     os.system("sips -s format pdf %s/%s.png --out %s/%s.pdf --resampleWidth %d" % (figDir,figurelabel,figDir,figurelabel,figWidth))
