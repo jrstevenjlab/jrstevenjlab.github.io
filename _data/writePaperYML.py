@@ -9,7 +9,7 @@ import shutil
 # fill out input source file location and citation information for given paper
 inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6588_phi_sdme/"
 inputLatex = inputDir + "kskl_prc.tex"
-papername = "2025phi"
+papername = "2025phi_ver2"
 papercitation = "  citation: Phys.Rev. C112 (2025) 2, 025203"
 doi = "  doi: 10.1103/2tdc-5by6"
 arXiv = "  arXiv: 2504.01194"
@@ -208,7 +208,9 @@ with open(inputLatex) as fp:
                 
                 if '.pdf' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".pdf")
-                    os.system("sips -s format png -Z %d %s/%s.pdf --out %s/%s.png --rotate 0" % (figWidth,figDir,figurelabel,figDir,figurelabel))
+                    #os.system("sips -s format png -z %d 5000 %s/%s.pdf --out %s/%s.png" % (figWidth,figDir,figurelabel,figDir,figurelabel))
+                    os.system("qlmanage -t -s %d -o . %s/%s.pdf" % (figWidth,figDir,figurelabel))
+                    os.system("mv %s.pdf.png %s/%s.png" % (figurelabel,figDir,figurelabel))
                 if '.png' in figurefile:
                     shutil.copyfile(figurefile, figDir + "/" + figurelabel + ".png")
                     os.system("sips -s format pdf %s/%s.png --out %s/%s.pdf --resampleWidth %d" % (figDir,figurelabel,figDir,figurelabel,figWidth))
