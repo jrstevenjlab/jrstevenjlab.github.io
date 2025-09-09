@@ -14,8 +14,8 @@ title: Collaboration
 * Peter Hurck, University of Glasgow (’23-’26)
 * Cristiano Fanelli, William & Mary (’24-’25)
 
-**Spokesperson:** Matthew Shepherd, Indiana University (re-elected: May-23)  
-**Deputy Spokesperson:** Justin Stevens, William & Mary  (re-appointed: May-23)  
+**Spokesperson:** Justin Stevens, William & Mary  (elected: May-25)  
+**Deputy Spokesperson:** Sean Dobbs, Florida State University  (appointed: May-25)  
 **Hall D Group Leader:** Eugene Chudakov, Jefferson Lab (appointed: Aug-09)   
 **Physics Analysis Coordinator:** Malte Albrecht, Jefferson Lab (elected: June-24)  
 * Invitations for GlueX collaboration speakers to contribute to workshops and conferences should be sent to Susan Schadmand (susansch [at] jlab [dot] org) for dissemination.

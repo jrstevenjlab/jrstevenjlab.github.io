@@ -9,7 +9,7 @@ import shutil
 # fill out input source file location and citation information for given paper
 inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6588_phi_sdme/"
 inputLatex = inputDir + "kskl_prc.tex"
-papername = "2025phi_ver2"
+papername = "2025phi"
 papercitation = "  citation: Phys.Rev. C112 (2025) 2, 025203"
 doi = "  doi: 10.1103/2tdc-5by6"
 arXiv = "  arXiv: 2504.01194"
