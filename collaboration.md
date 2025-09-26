@@ -57,7 +57,7 @@ title: Collaboration
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
 **Justus-Liebig-Universität Gießen:** Annika Thiel  
-**U. of Glasgow:** Peter Hurck  
+**U. of Glasgow:** Derek Galzier  
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
