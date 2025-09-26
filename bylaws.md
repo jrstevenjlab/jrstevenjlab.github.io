@@ -23,7 +23,7 @@ Membership to the GlueX Collaboration is granted to individual institutional gro
 ### [A.2 Removal of Members](#A2)
 {: #A2 }
 There are two ways that an institutional group can be removed from the Collaboration:
-1. The group leader notiﬁes the Spokesperson of his or her group’s intent to withdraw from the Collaboration. 
+1. The group leader notiﬁes the Spokesperson of their group’s intent to withdraw from the Collaboration. 
 2. An institutional group can be removed by a vote of the Collaboration if the group is determined (i) to have failed to fulﬁll their institutional obligations to the experiment or (ii) to have been inactive for a period of at least two years. 
     * The request for removal is brought before the Collaboration Board by the Spokesperson or Deputy Spokesperson after having concluded either of the two criteria for removal apply. 
     * The Collaboration Board evaluates the request and makes a recommendation for a Collaboration vote on the issue. 
@@ -38,13 +38,13 @@ All issues requiring a vote of the full Collaboration must adhere to the followi
 2. Every person who is a member of the Collaboration at the time the ballot is opened is eligible to participate in the election. 
 3. Ballots shall remain open for a minimum of two weeks or ten business days (whichever is longer) after the initial announcement is distributed to the collaboration. 
 4. Unless otherwise speciﬁed, “two-thirds vote” or “majority vote” implies two-thirds or a majority of those who cast a vote. An abstention does not count as a vote. 
-5. No election result is valid unless a quorum of the Collaboration participates in the election. An eligible voter may participate in an election but not vote by using the electronic ballot to register his or her abstention. 
+5. No election result is valid unless a quorum of the Collaboration participates in the election. An eligible voter may participate in an election but not vote by using the electronic ballot to register their abstention. 
 6. A quorum is deﬁned as more than 50% of eligible voters. 
 
 ## [C Modiﬁcation of Bylaws](#C) (Adopted: November 2, 2009)
 {: #C }
 The following procedure shall be used to modify or amend these bylaws.
-1. Any collaboration member wishing to initiate a modiﬁcation of or amendment to the bylaws should notify the chair of the Collaboration Board of his or her intent. 
+1. Any collaboration member wishing to initiate a modiﬁcation of or amendment to the bylaws should notify the chair of the Collaboration Board of their intent. 
 2. The Collaboration Board will discuss the request and, if it determines that modiﬁcations are necessary, draft a revision of the bylaws. 
 3. Revisions to the bylaws must be approved by a two-thirds vote of the Collaboration. 
 
@@ -85,17 +85,17 @@ day and week-to-week operations. An RC serves for at least one week at a time.
 2. GlueX shifts are manned by two people at all times, one shift Leader and one shift Worker. Leader 
 shifts are recommended to start at 00:00, 08:00 and 16:00 and worker shifts start at 04:00, 12:00 
 and 20:00. In the future, it might be desirable to assign different weights to these shifts. 
-3. Each member of GlueX is encouraged to take shifts. Each collaborating institution has a contact person responsible for filling all shifts assigned to that institution. The assigned shifts to an institution are evenly distributed over the different day and night shifts. The method for choosing shift personnel is left to the discretion of the contact person and his or her institution, but must conform to the overall guidelines described here. 
+3. Each member of GlueX is encouraged to take shifts. Each collaborating institution has a contact person responsible for filling all shifts assigned to that institution. The assigned shifts to an institution are evenly distributed over the different day and night shifts. The method for choosing shift personnel is left to the discretion of the contact person and their institution, but must conform to the overall guidelines described here. 
 4. This by-law only deals with general shift-taking concerned with experimental data-taking. It does not deal with specialized shift-taking concerned with a particular detector or software element, nor with any other activity performed by collaboration members in fulfillment of their MOU's or physics program. 
 5. This general policy is subject to change for engineering runs. 
 6. Collaboration membership and authorship issues are addressed in the corresponding by-laws on membership and authorship.
 
 ### [E.2 Shift Taker’s Qualifications and Conduct of Operations](#E2)
 {: #E2 }
-1. All shift takers must meet certain criteria itemized here. Prior to taking his or her first-ever scheduled shift, a person must be an observer on at least one shift in order to become familiar with procedures and (typically) to finish reading the required documents listed in the COO. In addition, anyone participating in data taking with GlueX must have a level of safety and radiation training described in the GlueX "Conduct of Operations" (COO) document. It provides an authoritative discussion of shift operations, including the duties and responsibilities of the shift Leader and the shift Worker. 
+1. All shift takers must meet certain criteria itemized here. Prior to taking their first-ever scheduled shift, a person must be an observer on at least one shift in order to become familiar with procedures and (typically) to finish reading the required documents listed in the COO. In addition, anyone participating in data taking with GlueX must have a level of safety and radiation training described in the GlueX "Conduct of Operations" (COO) document. It provides an authoritative discussion of shift operations, including the duties and responsibilities of the shift Leader and the shift Worker. 
 2. "Leaders": The list of expert shift takers who can act as shift leaders is determined by the Physics Division Liaison (PDL) in consultation with the Executive Group, which is responsible for the safe and effective operation of the system. Shift Leaders must be GlueX Collaboration members. Leader status implies experience in running GlueX shifts, not necessarily expert knowledge of hardware and software components of the system. Oral communication skills that enable effective communication with the accelerator staff are required for shift leaders. The Physics Division Liaison (PDL) must be satisfied that any given shift leading expert has adequate language skills. 
 3. "Workers": All members of the GlueX Collaboration are eligible for worker shifts. Non-members, including new graduate students, may be assigned shifts by the institutional contact person supervising the filling of the shift schedule. By assigning shifts to non-members, an institution's contact person is certifying that the persons so assigned will have met the Worker shift taker's requirements by the time the shift starts. 
-4. The PDL has the authority to reject a person for a shift if he or she thinks that the person is unqualified. The relevant institution then has responsibility for finding a suitable replacement. 
+4. The PDL has the authority to reject a person for a shift if they thinks that the person is unqualified. The relevant institution then has responsibility for finding a suitable replacement. 
 
 ### [E.3 Shift Scheduling and Shift Counting](#E3)
 {: #E3 }
@@ -129,7 +129,7 @@ members. A shift-trading period will be organized by the Shift Scheduler to allo
 {: #F2 }
 1. All current GlueX Collaboration members are eligible for co-authorship. A new member is eligible after a probationary period that is decided by the institutional group leader but expected to be six months. In the case of a new group, the duration of the probationary period is decided by the Collaboration Board. During this time, commitment to GlueX must be demonstrated. 
 2. Members who leave the GlueX Collaboration will remain eligible for authorship on GlueX papers for one year following their departure. 
-3. After one year following the departure of a Collaboration member, the leader of his or her former institutional group shall decide whether the individual will be eligible for co-authorship and communicate the name to the Collaboration Board, which reserves the right for a final review. 
+3. After one year following the departure of a Collaboration member, the leader of their former institutional group shall decide whether the individual will be eligible for co-authorship and communicate the name to the Collaboration Board, which reserves the right for a final review. 
 4. A paper will carry the names of all co-authors in alphabetical order. A footnote will identify the corresponding author(s). 
 5. The proponents of a paper will initially propose which non-GlueX members shall be included on the author list and communicate those names to the Collaboration Board for approval. 
 6. Any late additions to or removals from the author list must be approved by the Collaboration Board and communicated to the Collaboration. 
