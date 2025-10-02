@@ -39,14 +39,14 @@ title: Collaboration
 **Calibration:** Naomi Jarvis (Carnegie Mellon University)  
 **Data Production:** Alexander Austregesilo (Jefferson Lab) and Igal Jaegle (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
-**Engineering/Integration:** Tim Whitlatch (Jefferson Lab)  
+**Engineering/Integration:** Joshua Ballard (Jefferson Lab)  
 **Trigger/Monitoring/Controls:** Sergey Furletov, Alex Somov, and Hovanes Egiyan (Jefferson Lab)  
 **Magnet:** Beni Zihlmann (Jefferson Lab)
 
 ##  Collaborating Institutions and Institutional Contacts
 
 **Arizona State University:** Michael Dugger  
-**University of Athens:** Christine Kourkoumelis   
+**University of Athens:** Christina Kourkoumelis   
 **Ruhr-Universität-Bochum:** James Ritman  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
@@ -57,7 +57,7 @@ title: Collaboration
 **Florida State University:** Paul Eugenio  
 **George Washington University:** Igor Strakovsky  
 **Justus-Liebig-Universität Gießen:** Annika Thiel  
-**U. of Glasgow:** Derek Galzier  
+**U. of Glasgow:** Derek Glazier  
 **GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
