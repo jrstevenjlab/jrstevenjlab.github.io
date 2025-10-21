@@ -35,7 +35,7 @@ title: Collaboration
 **Time of Flight:** Paul Eugenio (Florida State University) and Beni Zihlmann (Jefferson Lab)  
 **DIRC:** Justin Stevens (William & Mary)  
 **Particle Identification:** Simon Taylor (Jefferson Lab)  
-**Software:** Alexander Austregesilo (Jefferson Lab) and Peter Hurck (Glasgow)  
+**Software:** Alexander Austregesilo (Jefferson Lab) and Peter Hurck (Bonn)  
 **Calibration:** Naomi Jarvis (Carnegie Mellon University)  
 **Data Production:** Alexander Austregesilo (Jefferson Lab) and Igal Jaegle (Jefferson Lab)  
 **Electronics:** Fernando Barbosa (Jefferson Lab)  
@@ -48,6 +48,7 @@ title: Collaboration
 **Arizona State University:** Michael Dugger  
 **University of Athens:** Christina Kourkoumelis   
 **Ruhr-Universität-Bochum:** James Ritman  
+**University of Bonn:** Peter Hurck
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
 **China University of Geosciences:** Xiaolin Kang  
