@@ -48,7 +48,7 @@ title: Collaboration
 **Arizona State University:** Michael Dugger  
 **University of Athens:** Christina Kourkoumelis   
 **Ruhr-Universität-Bochum:** James Ritman  
-**University of Bonn:** Peter Hurck
+**University of Bonn:** Peter Hurck  
 **Carnegie Mellon University:** Curtis Meyer  
 **Catholic University:** Greg Kalicy  
 **China University of Geosciences:** Xiaolin Kang  
