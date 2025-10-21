@@ -11,7 +11,7 @@ title: Collaboration
 * Edmundo Barriga, Florida State University (’25-’26)
 * Mark Dalton, Jefferson Lab (’22-’25)
 * Colin Gleason, Union College (’25-’26)
-* Peter Hurck, University of Glasgow (’23-’26)
+* Peter Hurck, University of Bonn (’23-’26)
 * Cristiano Fanelli, William & Mary (’24-’25)
 
 **Spokesperson:** Justin Stevens, William & Mary  (elected: May-25)  
