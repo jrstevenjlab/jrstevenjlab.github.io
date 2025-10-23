@@ -1,33 +1,34 @@
 - name: 2025compton
   title: First Measurement of the Total Compton Scattering Cross Section between 6 and 11 GeV
-  abstract: The total cross section for Compton scattering off atomic electrons, \csf, was measured using photons with energies between 6.5 and 11.1 GeV incident on a $^9$Be target as part of the PrimEx-\textit{eta} experiment in Hall D at Jefferson Lab. This is the first measurement of this fundamental QED process within this energy range. The total uncertainties of the cross section averaged to 3.4\% across all energy bins. This not only demonstrates the capability of this experimental setup to perform precision cross-section measurements at forward angles but also allows us to compare with state-of-the-art QED calculations. 
-  citation: Phys. Lett. B ??????
-  doi: 10.1103/2tdc-5by6
+  abstract: The total cross section for Compton scattering off atomic electrons, $\gamma+e\rightarrow\gamma'+e'$, was measured using photons with energies between 6.5 and 11.1 GeV incident on a $^9$Be target as part of the PrimEx-$\textit{eta}$ experiment in Hall D at Jefferson Lab. This is the first measurement of this fundamental QED process within this energy range. The total uncertainties of the cross section averaged to 3.4% across all energy bins. This not only demonstrates the capability of this experimental setup to perform precision cross-section measurements at forward angles but also allows us to compare with state-of-the-art QED calculations. 
+  citation: Phys. Lett. B 870 (2025) 139914
+  doi: 10.1016/j.physletb.2025.139914
   arXiv: 2505.07994
-  hepdata: ??????
+  hepdata: 165514
   link: /papers/2025compton/paper.html
+  order: 14
 
-- figure: 1a
+- figure: 1
   papername: 2025compton
-  citation: Phys. Lett. B ??????
-  doi: 10.1103/2tdc-5by6
-  caption: io Top, The lowest-order Feynman diagrams for single Compton scattering. Bottom Left, Typical NLO radiative-correction diagram. Bottom Right, NLO double Compton scattering diagram.
+  citation: Phys. Lett. B 870 (2025) 139914
+  doi: 10.1016/j.physletb.2025.139914
+  caption: Top, The lowest-order Feynman diagrams for single Compton scattering. Bottom Left, Typical NLO radiative-correction diagram. Bottom Right, NLO double Compton scattering diagram.
 
-- figure: 2a
+- figure: 2
   papername: 2025compton
-  citation: Phys. Lett. B ??????
-  doi: 10.1103/2tdc-5by6
-  caption: io Detector layout for the PrimEx-\textit{eta} experiment. Numbered components include (1) solenoid magnet, (2) barrel electromagnetic calorimeter, (3) central drift chamber, (4) forward drift chambers, and (5) time-of-flight wall. The scattered photons and electrons from Compton scattering events were detected by the Forward Calorimeter (FCAL) and the Compton Calorimeter (CCAL). Not drawn to scale.
+  citation: Phys. Lett. B 870 (2025) 139914
+  doi: 10.1016/j.physletb.2025.139914
+  caption: Detector layout for the PrimEx-$\textit{eta}$ experiment. Numbered components include (1) solenoid magnet, (2) barrel electromagnetic calorimeter, (3) central drift chamber, (4) forward drift chambers, and (5) time-of-flight wall. The scattered photons and electrons from Compton scattering events were detected by the Forward Calorimeter (FCAL) and the Compton Calorimeter (CCAL). Not drawn to scale.
 
-- figure: 3a
+- figure: 3
   papername: 2025compton
-  citation: Phys. Lett. B ??????
-  doi: 10.1103/2tdc-5by6
-  caption: io Example of a fit to the $\Delta K$ distribution to extract the Compton yield in one bin of the energy $E_{\gamma}$ of the (tagged) beam photon (here, 7.53 GeV). See Eq. \ref{eq,deltaK} for the definition of $\Delta K$. Backgrounds from beam-line components and accidentals in the photon tagger have already been subtracted. The remaining background (shown in magenta) is estimated from simulation of $e^{+}e^{-}$ pair production in the target, and the signal line shape (blue) is estimated from the simulation of the Compton scattering signal.
+  citation: Phys. Lett. B 870 (2025) 139914
+  doi: 10.1016/j.physletb.2025.139914
+  caption: Example of a fit to the $\Delta K$ distribution to extract the Compton yield in one bin of the energy $E_{\gamma}$ of the (tagged) beam photon (here, 7.53 GeV). See Eq. (3) for the definition of $\Delta K$. Backgrounds from beam-line components and accidentals in the photon tagger have already been subtracted. The remaining background (shown in magenta) is estimated from simulation of $e^{+}e^{-}$ pair production in the target, and the signal line shape (blue) is estimated from the simulation of the Compton scattering signal.
 
-- figure: 4a
+- figure: 4
   papername: 2025compton
-  citation: Phys. Lett. B ??????
-  doi: 10.1103/2tdc-5by6
-  caption: io Total Compton scattering cross section measured on atomic electrons of the $^{9}$Be target. The green solid curve corresponds to the NLO calculation performed as part of this work, and the black dash-dotted curve is taken from Ref. \citep{Lee2021,PRL}. The pink short-dashed line represents the total cross section at LO, obtained by integrating the Klein-Nishina formula in Eq. \ref{eq,klein-nishina}. Error bars on each point represent statistical uncertainties, whereas the light-blue band, centered at the NLO calculation, represents the total systematic uncertainty. The bottom plot shows the relative difference (in percentage) between the measured values and the NLO calculation.
+  citation: Phys. Lett. B 870 (2025) 139914
+  doi: 10.1016/j.physletb.2025.139914
+  caption: Total Compton scattering cross section measured on atomic electrons of the $^{9}$Be target. The green solid curve corresponds to the NLO calculation performed as part of this work, and the black dash-dotted curve is taken from Ref. [8]. The pink short-dashed line represents the total cross section at LO, obtained by integrating the Klein-Nishina formula in Eq. (1). Error bars on each point represent statistical uncertainties, whereas the light-blue band, centered at the NLO calculation, represents the total systematic uncertainty. The bottom plot shows the relative difference (in percentage) between the measured values and the NLO calculation.
 

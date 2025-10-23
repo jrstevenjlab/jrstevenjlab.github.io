@@ -10,10 +10,10 @@ import shutil
 inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6228_compton/"
 inputLatex = inputDir + "main.tex"
 papername = "2025compton"
-papercitation = "  citation: Phys. Lett. B ??????"
-doi = "  doi: 10.1103/2tdc-5by6"
+papercitation = "  citation: Phys. Lett. B 870 (2025) 139914"
+doi = "  doi: 10.1016/j.physletb.2025.139914"
 arXiv = "  arXiv: 2505.07994"
-hepdata = "  hepdata: ??????"
+hepdata = "  hepdata: 165514"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
