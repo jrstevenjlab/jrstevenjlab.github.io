@@ -7,13 +7,13 @@ import shutil
 ## Could find way to pull citation information from InspireHEP but haven't gotten there yet
 
 # fill out input source file location and citation information for given paper
-inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6228_compton/"
-inputLatex = inputDir + "main.tex"
-papername = "2025compton"
-papercitation = "  citation: Phys. Lett. B 870 (2025) 139914"
-doi = "  doi: 10.1016/j.physletb.2025.139914"
-arXiv = "  arXiv: 2505.07994"
-hepdata = "  hepdata: 165514"
+inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6297_baryonantibaryon/"
+inputLatex = inputDir + "b-anti-b_crosssections.tex"
+papername = "2025baryonantibaryon"
+papercitation = "  citation: submitted to Phys. Rev. C"
+doi = "  doi: 10.48550/arXiv.2510.26890"
+arXiv = "  arXiv: 2510.26890"
+hepdata = "  hepdata: 166629"
 
 outname = "papers/%s.yml" % papername
 outfile = open(outname, 'w')
