@@ -7,12 +7,12 @@ title: Collaboration
 ## Management
 
 **Collaboration Board:**
-* **Chair:** Naomi Jarvis, Carnegie Mellon University (’22-’25)
+* Farah Afzal, Ruhr-Universität-Bochum ('26-'27)
+* Alexander Austregesilo, Jefferson Lab ('26-'27)
 * Edmundo Barriga, Florida State University (’25-’26)
-* Mark Dalton, Jefferson Lab (’22-’25)
 * Colin Gleason, Union College (’25-’26)
 * Peter Hurck, University of Bonn (’23-’26)
-* Cristiano Fanelli, William & Mary (’24-’25)
+* Amy Schertz, Indiana University ('26-'27)
 
 **Spokesperson:** Justin Stevens, William & Mary  (elected: May-25)  
 **Deputy Spokesperson:** Sean Dobbs, Florida State University  (appointed: May-25)  
