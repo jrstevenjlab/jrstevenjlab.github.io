@@ -7,11 +7,11 @@ title: Collaboration
 ## Management
 
 **Collaboration Board:**
+* **Chair** Peter Hurck, University of Bonn (’23-’26)
 * Farah Afzal, Ruhr-Universität-Bochum ('26-'27)
 * Alexander Austregesilo, Jefferson Lab ('26-'27)
 * Edmundo Barriga, Florida State University (’25-’26)
 * Colin Gleason, Union College (’25-’26)
-* Peter Hurck, University of Bonn (’23-’26)
 * Amy Schertz, Indiana University ('26-'27)
 
 **Spokesperson:** Justin Stevens, William & Mary  (elected: May-25)  

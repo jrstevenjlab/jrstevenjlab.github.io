@@ -3,7 +3,7 @@
   abstract: The GlueX experiment at Jefferson Lab has observed $p\bar{p}$  and, for the first time, $\Lambda\bar{\Lambda}$ and $p\bar{\Lambda}$ photoproduction from a proton target at photon energies up to 11.6 GeV.  The angular distributions are forward peaked for all produced pairs, consistent with Regge-like $t$-channel exchange.  Asymmetric wide-angle anti-baryon distributions show the presence of additional processes.   In a phenomenological model, we find consistency with a double $t$-channel exchange process where anti-baryons are created only at the middle vertex.  The model matches all observed distributions with a small number of free parameters.  In the hyperon channels, we observe a clear distinction between photoproduction of the $\Lambda\bar{\Lambda}$ and $p\bar{\Lambda}$ systems but general similarity to the $p\bar{p}$ system.  We report both total cross sections and cross sections differential with respect to momentum transfer and the invariant masses of the created particle pairs.   No narrow resonant structures were found in these reaction channels.  The suppression of $s\bar{s}$ quark pairs relative to $d\bar{d}$ quark pairs is similar to what has been seen in other reactions. 
   citation: Submitted to Phys. Rev. C
   doi: 10.48550/arXiv.2510.26890
-  arXiv: 2510.26890
+  arXiv: "2510.26890"
   hepdata: 166629
   link: /papers/2025baryonantibaryon/paper.html
   order: 15
