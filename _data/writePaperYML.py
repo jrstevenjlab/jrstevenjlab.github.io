@@ -10,8 +10,8 @@ import shutil
 inputDir = "/Users/jrsteven/gluex/builds/gluex_documents/gluex_papers/gx6297_baryonantibaryon/"
 inputLatex = inputDir + "b-anti-b_crosssections.tex"
 papername = "2025baryonantibaryon"
-papercitation = "  citation: submitted to Phys. Rev. C"
-doi = "  doi: 10.48550/arXiv.2510.26890"
+papercitation = "  citation: Phys. Rev. C113 (2025) 4, 045207"
+doi = "  doi: 10.1103/h197-l9dw"
 arXiv = "  arXiv: 2510.26890"
 hepdata = "  hepdata: 166629"
 
