@@ -59,7 +59,6 @@ title: Collaboration
 **George Washington University:** Igor Strakovsky  
 **Justus-Liebig-Universität Gießen:** Annika Thiel  
 **U. of Glasgow:** Derek Glazier  
-**GSI:** Klaus Peters  
 **IHEP, Chinese Academy of Sciences:** Beijiang Liu  
 **Indiana University:** Matthew Shepherd  
 **National Research Centre Kurchatov Institute:** Victor Tarasov  
@@ -68,7 +67,6 @@ title: Collaboration
 **U. of Massachusetts, Amherst:** Rory Miskimen  
 **MEPhI:** Sergei Somov  
 **Mount Allison University:** David Hornidge  
-**Norfolk State University :** Carlos Salgado  
 **North Carolina A&T State:** Ashot Gasparian  
 **U. of North Carolina, Wilmington:** Liping Gan  
 **Old Dominion University:** Moskov Amaryan  
