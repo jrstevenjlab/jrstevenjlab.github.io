@@ -1,5 +1,8 @@
 Development repository for gluex.org
 
+# Setup ruby for compatible version in Homebrew (temporary fix?)
+export PATH="/opt/homebrew/opt/ruby@3.4/bin:$PATH"
+
 # Run server locally to be broadcast on http://127.0.0.1:4000
 bundle exec jekyll serve
 

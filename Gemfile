@@ -12,3 +12,11 @@ gem "hyde"
 gem "minimal-mistakes-jekyll"
 gem "amp-jekyll"
 
+
+# Standard-library gems no longer bundled by default in Ruby >= 3.4
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
+gem "ostruct"
